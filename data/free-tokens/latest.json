@@ -1,11 +1,11 @@
 {
   "meta": {
-    "sourceUpdatedAt": "2026-11-26 22:08",
-    "syncedAt": "2026-11-26T15:07:57.594Z",
-    "fetchedAt": "2026-11-26T14:17:41.346Z",
+    "sourceUpdatedAt": "2026-11-27 12:07",
+    "syncedAt": "2026-11-27T04:48:48.179Z",
+    "fetchedAt": "2026-11-27T04:48:48.179Z",
     "conversionRule": "valueCny 取自「能领多少」中的 ≈¥N / ¥N（人民币元）；标注「不折钱」或无法折算时为 null",
-    "etag": "W/\"free-tokens-60-md-d2b06c0ec84baf1c\"",
-    "totalItems": 65
+    "etag": "W/\"free-tokens-60-md-fd93328c0156a372\"",
+    "totalItems": 66
   },
   "sections": [
     {
@@ -31,7 +31,7 @@
           "verifiedAt": "2026-11-23 22:06（北京时间）",
           "verifiedSource": "官方页面",
           "claimUrl": "https://monkeycode.docs.baizhi.cloud/node/019d963c-425a-7c49-8126-d5308fd61cdc",
-          "logo": "https://cdn.jsdelivr.net/gh/siuphua/omr-data@main/data/free-tokens/logos/monkeycode.docs.baizhi.cloud.png"
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/monkeycode.docs.baizhi.cloud.png"
         },
         {
           "id": "e606001285",
@@ -72,7 +72,7 @@
           "verifiedAt": "2026-11-18 09:04（北京时间）",
           "verifiedSource": "官方页面",
           "claimUrl": "https://activity.huaweicloud.com/officeace.html#section-3",
-          "logo": "https://cdn.jsdelivr.net/gh/siuphua/omr-data@main/data/free-tokens/logos/activity.huaweicloud.com.png"
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/activity.huaweicloud.com.png"
         },
         {
           "id": "8c7b1e0188",
@@ -95,7 +95,7 @@
           "verifiedAt": "2026-11-26 09:03（北京时间）",
           "verifiedSource": "官方页面",
           "claimUrl": "https://support.huaweicloud.com/offers-codeartsagent/codeartsagent_offers_0008.html",
-          "logo": "https://cdn.jsdelivr.net/gh/siuphua/omr-data@main/data/free-tokens/logos/support.huaweicloud.com.png"
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/support.huaweicloud.com.png"
         },
         {
           "id": "e51b282cc3",
@@ -116,7 +116,7 @@
           "verifiedAt": "2026-11-22 22:10（北京时间）",
           "verifiedSource": "官方页面",
           "claimUrl": "https://support.huaweicloud.com/offers-codeartsagent/codeartsagent_offers_0004.html",
-          "logo": "https://cdn.jsdelivr.net/gh/siuphua/omr-data@main/data/free-tokens/logos/support.huaweicloud.com.png"
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/support.huaweicloud.com.png"
         },
         {
           "id": "e362652fc4",
@@ -135,7 +135,7 @@
           "verifiedAt": "2026-11-23 00:38（北京时间）",
           "verifiedSource": "官方页面",
           "claimUrl": "https://docs.meoo.com/pricing",
-          "logo": "https://cdn.jsdelivr.net/gh/siuphua/omr-data@main/data/free-tokens/logos/docs.meoo.com.png"
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/docs.meoo.com.png"
         },
         {
           "id": "be18ff528b",
@@ -156,7 +156,7 @@
           "verifiedAt": "2026-11-24 05:55（北京时间）",
           "verifiedSource": "官方页面",
           "claimUrl": "https://www.modelscope.cn/posts/435591",
-          "logo": "https://cdn.jsdelivr.net/gh/siuphua/omr-data@main/data/free-tokens/logos/www.modelscope.cn.png"
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/www.modelscope.cn.png"
         },
         {
           "id": "b44895ab58",
@@ -178,7 +178,7 @@
           "verifiedAt": "2026-11-25 22:03（北京时间）",
           "verifiedSource": "官方页面",
           "claimUrl": "https://acemusic.ai/zh/help/articles/credits-usage/",
-          "logo": "https://cdn.jsdelivr.net/gh/siuphua/omr-data@main/data/free-tokens/logos/acemusic.ai.png"
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/acemusic.ai.png"
         },
         {
           "id": "c177136006",
@@ -199,7 +199,7 @@
           "verifiedAt": "2026-11-14 03:05（北京时间）",
           "verifiedSource": "官方页面",
           "claimUrl": "https://agent.xfyun.cn/studio-guide/pricing",
-          "logo": "https://cdn.jsdelivr.net/gh/siuphua/omr-data@main/data/free-tokens/logos/agent.xfyun.cn.png"
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/agent.xfyun.cn.png"
         },
         {
           "id": "8d4b249ecb",
@@ -218,7 +218,7 @@
           "verifiedAt": "2026-11-22 22:04（北京时间）",
           "verifiedSource": "官方页面",
           "claimUrl": "https://developers.cloudflare.com/workers-ai/platform/pricing/",
-          "logo": "https://cdn.jsdelivr.net/gh/siuphua/omr-data@main/data/free-tokens/logos/developers.cloudflare.com.png"
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/developers.cloudflare.com.png"
         },
         {
           "id": "e25056571c",
@@ -239,7 +239,7 @@
           "verifiedAt": "2026-11-24 12:06（北京时间）",
           "verifiedSource": "官方页面",
           "claimUrl": "https://ekhos.ai/membership-account/pricing/",
-          "logo": "https://cdn.jsdelivr.net/gh/siuphua/omr-data@main/data/free-tokens/logos/ekhos.ai.png"
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/ekhos.ai.png"
         },
         {
           "id": "4332e11b83",
@@ -259,7 +259,7 @@
           "verifiedAt": "2026-11-25 22:02（北京时间）",
           "verifiedSource": "官方页面",
           "claimUrl": "https://openrouter.ai/baidu/ernie-5.5-flash-preview:free",
-          "logo": "https://cdn.jsdelivr.net/gh/siuphua/omr-data@main/data/free-tokens/logos/openrouter.ai.png"
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/openrouter.ai.png"
         },
         {
           "id": "5c82e9f998",
@@ -281,7 +281,7 @@
           "verifiedAt": "2026-11-19 22:06（北京时间）",
           "verifiedSource": "官方页面",
           "claimUrl": "https://ecloud.10086.cn/mobilecloud/act/2026-double11",
-          "logo": "https://cdn.jsdelivr.net/gh/siuphua/omr-data@main/data/free-tokens/logos/ecloud.10086.cn.png"
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/ecloud.10086.cn.png"
         },
         {
           "id": "5131d8a505",
@@ -301,7 +301,7 @@
           "verifiedAt": "2026-11-23 00:33（北京时间）",
           "verifiedSource": "官方页面",
           "claimUrl": "https://docs.qoder.cn/events/100credits",
-          "logo": "https://cdn.jsdelivr.net/gh/siuphua/omr-data@main/data/free-tokens/logos/docs.qoder.cn.png"
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/docs.qoder.cn.png"
         },
         {
           "id": "b15d022cb8",
@@ -321,7 +321,7 @@
           "verifiedAt": "2026-11-20 22:05（北京时间）",
           "verifiedSource": "官方页面",
           "claimUrl": "https://docs.trae.cn/ide_plans-and-billing",
-          "logo": "https://cdn.jsdelivr.net/gh/siuphua/omr-data@main/data/free-tokens/logos/docs.trae.cn.png"
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/docs.trae.cn.png"
         }
       ]
     },
@@ -348,7 +348,7 @@
           "verifiedAt": "2026-11-26 22:08（北京时间）",
           "verifiedSource": "官方页面",
           "claimUrl": "https://maas.unisound.com/docs/token-plan/overview",
-          "logo": "https://cdn.jsdelivr.net/gh/siuphua/omr-data@main/data/free-tokens/logos/maas.unisound.com.png"
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/maas.unisound.com.png"
         }
       ]
     },
@@ -361,9 +361,9 @@
           "id": "beb6e6d565",
           "title": "Rime 每月 50 美元语音模型额度",
           "provider": "Rime",
-          "amountText": "≈¥334（每月 · 50 美元，按模型榜汇率）",
+          "amountText": "≈¥333（每月 · 50 美元，按模型榜汇率）",
           "amountNote": "每月 · 50 美元，按模型榜汇率",
-          "valueCny": 334,
+          "valueCny": 333,
           "howTo": "可用于 Prism 语音对话、Mist v3 和 Coda v2 语音合成，以及 Rime STT 转文字。50 美元约可合成 1667 分钟 Mist v3。免费额度用完后，需自行升级并绑卡才能继续。免费档限评估和开发，不得上传来电录音、健康信息或他人个人数据，符合条款的输入输出可用于训练。",
           "scope": "所有模型；Prism、Mist v3、Coda v2、Rime STT",
           "tags": [
@@ -377,7 +377,7 @@
           "verifiedAt": "2026-11-22 22:04（北京时间）",
           "verifiedSource": "官方页面",
           "claimUrl": "https://www.rime.ai/pricing",
-          "logo": "https://cdn.jsdelivr.net/gh/siuphua/omr-data@main/data/free-tokens/logos/www.rime.ai.png"
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/www.rime.ai.png"
         },
         {
           "id": "bca194539b",
@@ -399,7 +399,7 @@
           "verifiedAt": "2026-11-20 22:03（北京时间）",
           "verifiedSource": "官方页面",
           "claimUrl": "https://console.nace.ai/docs/drex/reference/pricing",
-          "logo": "https://cdn.jsdelivr.net/gh/siuphua/omr-data@main/data/free-tokens/logos/console.nace.ai.png"
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/console.nace.ai.png"
         },
         {
           "id": "f84b4e794f",
@@ -408,7 +408,7 @@
           "amountText": "≈¥17（每月 · 2.5 美元，按模型榜汇率）",
           "amountNote": "每月 · 2.5 美元，按模型榜汇率",
           "valueCny": 17,
-          "howTo": "Build 免费档通过 LiveKit Inference 调用文本、语音识别、语音合成和实时语音模型，支持 SDK 接入。额度用尽后停止新请求，不产生超额费用。另送的 1,000 分钟 Agent 托管时长不等于模型推理时长。约合 DeepSeek V4.1 Flash 2718 万 Token。",
+          "howTo": "Build 免费档通过 LiveKit Inference 调用文本、语音识别、语音合成和实时语音模型，支持 SDK 接入。额度用尽后停止新请求，不产生超额费用。另送的 1,000 分钟 Agent 托管时长不等于模型推理时长。约合 DeepSeek V4.1 Flash 2712 万 Token。",
           "scope": "LiveKit Inference 支持的模型，如 Gemma 4 31B、DeepSeek V4.1 Flash、GPT-6.1 Sol、Gemini 4 Hydrogen、Deepgram Flux、Cartesia Sonic 3.6；自带厂商 API Key 的插件费用不抵扣；Gemma 4 31 B、DeepSeek V4 Pro、Kimi K2.6、Gemini 3.8 Flash、GPT-6.1 Terra、GPT-6 Sol、GPT-6 Luna、GPT-5.6 Luna、GPT-5.6 Sol、GPT-5.6 Terra、Deepgram Nova-3、Fish Audio S2.1 Pro、AssemblyAI Universal-3.6 Pro Streaming、Rime Coda、Rime Prism、GPT Realtime 2.1、Gemini 3.8 Live、Gemini 4 Argon、Gemini 4 Neon",
           "tags": [
             "无需绑卡",
@@ -419,7 +419,7 @@
           "verifiedAt": "2026-11-24 22:07（北京时间）",
           "verifiedSource": "官方页面",
           "claimUrl": "https://livekit.com/pricing",
-          "logo": "https://cdn.jsdelivr.net/gh/siuphua/omr-data@main/data/free-tokens/logos/livekit.com.png"
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/livekit.com.png"
         },
         {
           "id": "7409580366",
@@ -439,7 +439,7 @@
           "verifiedAt": "2026-11-21 22:07（北京时间）",
           "verifiedSource": "官方页面",
           "claimUrl": "https://developer.ant-ling.com/zh-CN/docs/getting-started/changelog/billing-upgrade/",
-          "logo": "https://cdn.jsdelivr.net/gh/siuphua/omr-data@main/data/free-tokens/logos/developer.ant-ling.com.png"
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/developer.ant-ling.com.png"
         },
         {
           "id": "b6acc3a18b",
@@ -460,7 +460,7 @@
           "verifiedAt": "2026-11-23 00:35（北京时间）",
           "verifiedSource": "官方页面",
           "claimUrl": "https://pages.edgeone.ai/zh/document/limits-and-quotas",
-          "logo": "https://cdn.jsdelivr.net/gh/siuphua/omr-data@main/data/free-tokens/logos/pages.edgeone.ai.png"
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/pages.edgeone.ai.png"
         },
         {
           "id": "6298ea8057",
@@ -480,7 +480,7 @@
           "verifiedAt": "2026-11-20 22:08（北京时间）",
           "verifiedSource": "官方页面",
           "claimUrl": "https://www.shlab.org.cn/news/5444294",
-          "logo": "https://cdn.jsdelivr.net/gh/siuphua/omr-data@main/data/free-tokens/logos/www.shlab.org.cn.png"
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/www.shlab.org.cn.png"
         },
         {
           "id": "d330ca8f99",
@@ -501,7 +501,7 @@
           "verifiedAt": "2026-11-26 22:05（北京时间）",
           "verifiedSource": "官方页面",
           "claimUrl": "https://elevenlabs.io/pricing",
-          "logo": "https://cdn.jsdelivr.net/gh/siuphua/omr-data@main/data/free-tokens/logos/elevenlabs.io.png"
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/elevenlabs.io.png"
         },
         {
           "id": "7b0d9bfed3",
@@ -523,7 +523,7 @@
           "verifiedAt": "2026-11-19 22:07（北京时间）",
           "verifiedSource": "官方页面",
           "claimUrl": "https://ecloud.10086.cn/mobilecloud/act/2026-double11",
-          "logo": "https://cdn.jsdelivr.net/gh/siuphua/omr-data@main/data/free-tokens/logos/ecloud.10086.cn.png"
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/ecloud.10086.cn.png"
         },
         {
           "id": "5f8379ea36",
@@ -543,14 +543,14 @@
           "verifiedAt": "2026-11-22 22:10（北京时间）",
           "verifiedSource": "官方页面",
           "claimUrl": "https://www.trae.cn/pricing",
-          "logo": "https://cdn.jsdelivr.net/gh/siuphua/omr-data@main/data/free-tokens/logos/www.trae.cn.png"
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/www.trae.cn.png"
         }
       ]
     },
     {
       "key": "other",
       "name": "其他福利",
-      "declaredCount": 40,
+      "declaredCount": 41,
       "items": [
         {
           "id": "a0bedf2335",
@@ -569,7 +569,7 @@
           "verifiedAt": "2026-11-26 22:03（北京时间）",
           "verifiedSource": "官方页面",
           "claimUrl": "https://cloud.baidu.com/doc/qianfan/index.html",
-          "logo": "https://cdn.jsdelivr.net/gh/siuphua/omr-data@main/data/free-tokens/logos/cloud.baidu.com.png"
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/cloud.baidu.com.png"
         },
         {
           "id": "5fd1a07ba0",
@@ -592,7 +592,28 @@
           "verifiedAt": "2026-11-25 09:03（北京时间）",
           "verifiedSource": "官方页面",
           "claimUrl": "https://autoclaw.zhipuai.cn/blog/news/M11W4/",
-          "logo": "https://cdn.jsdelivr.net/gh/siuphua/omr-data@main/data/free-tokens/logos/autoclaw.zhipuai.cn.png"
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/autoclaw.zhipuai.cn.png"
+        },
+        {
+          "id": "f153933410",
+          "title": "fal Seedance 2.5 新账号登录送 2 段视频",
+          "provider": "fal",
+          "amountText": "2 段（按次赠送，暂不折价）",
+          "amountNote": "按次赠送，暂不折价",
+          "valueCny": null,
+          "howTo": "每段 10 秒、480p，参考生视频最多用 5 张参考图。注册后 7 天内添加付款方式验证可再得 3 段。次数不补充，工作流、接口调用和超额生成按量收费。",
+          "scope": "Seedance 2.5 文生视频、图生视频和参考生视频，限 fal 网页 Playground、Sandbox 和 fal Agent",
+          "tags": [
+            "限产品内使用",
+            "账号注册未满 7 天",
+            "每段 10 秒"
+          ],
+          "validity": null,
+          "deadline": "2026-12-01 23:59（北京时间）",
+          "verifiedAt": "2026-11-27 09:06（北京时间）",
+          "verifiedSource": "官方页面",
+          "claimUrl": "https://fal.ai/seedance-2.5",
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/fal.ai.png"
         },
         {
           "id": "36061cbffc",
@@ -611,7 +632,7 @@
           "verifiedAt": "2026-11-23 00:34（北京时间）",
           "verifiedSource": "官方页面",
           "claimUrl": "https://sensetime.com/cn/news/sensenova-6-8-flash-release-20261103-1421",
-          "logo": "https://cdn.jsdelivr.net/gh/siuphua/omr-data@main/data/free-tokens/logos/sensetime.com.png"
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/sensetime.com.png"
         },
         {
           "id": "56e621e391",
@@ -634,7 +655,7 @@
           "verifiedAt": "2026-11-25 22:02（北京时间）",
           "verifiedSource": "官方页面",
           "claimUrl": "https://docs.qoder.com/zh/events/hungerg-free",
-          "logo": "https://cdn.jsdelivr.net/gh/siuphua/omr-data@main/data/free-tokens/logos/docs.qoder.com.png"
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/docs.qoder.com.png"
         },
         {
           "id": "bb1681adf0",
@@ -657,7 +678,7 @@
           "verifiedAt": "2026-11-26 09:03（北京时间）",
           "verifiedSource": "官方页面",
           "claimUrl": "https://docs.qoder.cn/events/hungerg-free",
-          "logo": "https://cdn.jsdelivr.net/gh/siuphua/omr-data@main/data/free-tokens/logos/docs.qoder.cn.png"
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/docs.qoder.cn.png"
         },
         {
           "id": "a22f98e236",
@@ -679,7 +700,7 @@
           "verifiedAt": "2026-11-25 22:05（北京时间）",
           "verifiedSource": "官方页面",
           "claimUrl": "https://hunyuan.tencent.com/research/100145?langVersion=zh",
-          "logo": "https://cdn.jsdelivr.net/gh/siuphua/omr-data@main/data/free-tokens/logos/hunyuan.tencent.com.png"
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/hunyuan.tencent.com.png"
         },
         {
           "id": "19631f9e79",
@@ -699,7 +720,7 @@
           "verifiedAt": "2026-11-22 22:08（北京时间）",
           "verifiedSource": "官方页面",
           "claimUrl": "https://support.telnyx.com/en/articles/14327893-telnyx-pretrial-accounts",
-          "logo": "https://cdn.jsdelivr.net/gh/siuphua/omr-data@main/data/free-tokens/logos/support.telnyx.com.png"
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/support.telnyx.com.png"
         },
         {
           "id": "fd3cf00ca3",
@@ -719,7 +740,7 @@
           "verifiedAt": "2026-11-20 22:07（北京时间）",
           "verifiedSource": "官方页面",
           "claimUrl": "https://vmodel.ai/docs/api/pricing.html",
-          "logo": "https://cdn.jsdelivr.net/gh/siuphua/omr-data@main/data/free-tokens/logos/vmodel.ai.png"
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/vmodel.ai.png"
         },
         {
           "id": "8262f8b45c",
@@ -741,7 +762,7 @@
           "verifiedAt": "2026-11-14 03:05（北京时间）",
           "verifiedSource": "官方页面",
           "claimUrl": "https://www.scnet.cn/home/subject/double11/index.html",
-          "logo": "https://cdn.jsdelivr.net/gh/siuphua/omr-data@main/data/free-tokens/logos/www.scnet.cn.png"
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/www.scnet.cn.png"
         },
         {
           "id": "e7892c7499",
@@ -763,7 +784,7 @@
           "verifiedAt": "2026-11-26 22:03（北京时间）",
           "verifiedSource": "官方页面",
           "claimUrl": "https://console.nace.ai/docs/drex/reference/pricing",
-          "logo": "https://cdn.jsdelivr.net/gh/siuphua/omr-data@main/data/free-tokens/logos/console.nace.ai.png"
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/console.nace.ai.png"
         },
         {
           "id": "cf0914a0d6",
@@ -784,7 +805,7 @@
           "verifiedAt": "2026-11-24 22:03（北京时间）",
           "verifiedSource": "官方页面",
           "claimUrl": "https://zed.dev/docs/account/plans-and-pricing",
-          "logo": "https://cdn.jsdelivr.net/gh/siuphua/omr-data@main/data/free-tokens/logos/zed.dev.png"
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/zed.dev.png"
         },
         {
           "id": "2a6413620f",
@@ -804,7 +825,7 @@
           "verifiedAt": "2026-11-25 09:10（北京时间）",
           "verifiedSource": "官方页面",
           "claimUrl": "https://monkeycode.docs.baizhi.cloud/node/01a012e5-d949-76db-96d0-b9cf63283026",
-          "logo": "https://cdn.jsdelivr.net/gh/siuphua/omr-data@main/data/free-tokens/logos/monkeycode.docs.baizhi.cloud.png"
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/monkeycode.docs.baizhi.cloud.png"
         },
         {
           "id": "2fb31b47d4",
@@ -825,7 +846,7 @@
           "verifiedAt": "2026-11-22 09:10（北京时间）",
           "verifiedSource": "官方页面",
           "claimUrl": "https://www.ucloud.cn/site/active/astraflow-credit",
-          "logo": "https://cdn.jsdelivr.net/gh/siuphua/omr-data@main/data/free-tokens/logos/www.ucloud.cn.png"
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/www.ucloud.cn.png"
         },
         {
           "id": "776300e6d3",
@@ -844,7 +865,7 @@
           "verifiedAt": "2026-11-23 00:33（北京时间）",
           "verifiedSource": "官方页面",
           "claimUrl": "https://www.siliconflow.cn/news/od7wj9rr23p95uhihmhrombp",
-          "logo": "https://cdn.jsdelivr.net/gh/siuphua/omr-data@main/data/free-tokens/logos/www.siliconflow.cn.png"
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/www.siliconflow.cn.png"
         },
         {
           "id": "700afbdd8b",
@@ -866,7 +887,7 @@
           "verifiedAt": "2026-11-21 22:06（北京时间）",
           "verifiedSource": "官方页面",
           "claimUrl": "https://help.aliyun.com/zh/model-studio/new-free-quota",
-          "logo": "https://cdn.jsdelivr.net/gh/siuphua/omr-data@main/data/free-tokens/logos/help.aliyun.com.png"
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/help.aliyun.com.png"
         },
         {
           "id": "e855344407",
@@ -888,7 +909,7 @@
           "verifiedAt": "2026-11-21 22:07（北京时间）",
           "verifiedSource": "官方页面",
           "claimUrl": "https://www.sina.cn/news/detail/5360778855319190.html",
-          "logo": "https://cdn.jsdelivr.net/gh/siuphua/omr-data@main/data/free-tokens/logos/www.sina.cn.png"
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/www.sina.cn.png"
         },
         {
           "id": "6431dc6a84",
@@ -911,7 +932,7 @@
           "verifiedAt": "2026-11-20 22:08（北京时间）",
           "verifiedSource": "官方页面",
           "claimUrl": "https://support.huaweicloud.com/offers-codeartsagent/codeartsagent_offers_0008.html",
-          "logo": "https://cdn.jsdelivr.net/gh/siuphua/omr-data@main/data/free-tokens/logos/support.huaweicloud.com.png"
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/support.huaweicloud.com.png"
         },
         {
           "id": "79954514d8",
@@ -930,7 +951,7 @@
           "verifiedAt": "2026-11-22 22:07（北京时间）",
           "verifiedSource": "官方页面",
           "claimUrl": "https://docs.meoo.com/pricing",
-          "logo": "https://cdn.jsdelivr.net/gh/siuphua/omr-data@main/data/free-tokens/logos/docs.meoo.com.png"
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/docs.meoo.com.png"
         },
         {
           "id": "c339ea5c5b",
@@ -952,7 +973,27 @@
           "verifiedAt": "2026-11-24 22:06（北京时间）",
           "verifiedSource": "官方页面",
           "claimUrl": "https://docs.qwenwork.cn/activity/desktop-activation-benefit",
-          "logo": "https://cdn.jsdelivr.net/gh/siuphua/omr-data@main/data/free-tokens/logos/docs.qwenwork.cn.png"
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/docs.qwenwork.cn.png"
+        },
+        {
+          "id": "e28673d676",
+          "title": "腾讯云混元生 3D 新人领 100 积分",
+          "provider": "腾讯云 TokenHub",
+          "amountText": "100 积分（暂无适用的积分单独售价，暂不折价）",
+          "amountNote": "暂无适用的积分单独售价，暂不折价",
+          "valueCny": null,
+          "howTo": "首次开通后，在模型广场的新人免费体验入口选择混元生 3D。积分用于同名默认推理服务，额度分配以控制台为准。未开启按量付费时，用完即停。3.0 和 3.1 每次消耗 15 至 60 积分，极速版每次消耗 15 至 25 积分。",
+          "scope": "HY-3D-3.0、3.1、Express，以及 Component、Format、Motion、Retopology、Rigging、Texture、UV。领取时以控制台的可选型号为准。；HY-3D-3.1、HY-3D-Express、HY-3D-Component、HY-3D-Format、HY-3D-Motion、HY-3D-Retopology、HY-3D-Rigging、HY-3D-Texture、HY-3D-UV",
+          "tags": [
+            "要实名",
+            "限新用户"
+          ],
+          "validity": "领取后 1 年",
+          "deadline": "2026-12-31 23:59（北京时间）",
+          "verifiedAt": "2026-11-27 12:06（北京时间）",
+          "verifiedSource": "官方页面",
+          "claimUrl": "https://cloud.tencent.com/document/product/1823/130053",
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/cloud.tencent.com.png"
         },
         {
           "id": "d61e903272",
@@ -977,7 +1018,7 @@
           "verifiedAt": "2026-11-25 15:05（北京时间）",
           "verifiedSource": "官方页面",
           "claimUrl": "https://docs.cloudbase.net/ai/ai-inspire-plan",
-          "logo": "https://cdn.jsdelivr.net/gh/siuphua/omr-data@main/data/free-tokens/logos/docs.cloudbase.net.png"
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/docs.cloudbase.net.png"
         },
         {
           "id": "57d2410eab",
@@ -1000,7 +1041,7 @@
           "verifiedAt": "2026-11-20 22:03（北京时间）",
           "verifiedSource": "官方页面",
           "claimUrl": "https://autoclaw.zhipuai.cn/blog/news/autoclaw-2-2-0-upgrade-data-migration/",
-          "logo": "https://cdn.jsdelivr.net/gh/siuphua/omr-data@main/data/free-tokens/logos/autoclaw.zhipuai.cn.png"
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/autoclaw.zhipuai.cn.png"
         },
         {
           "id": "8c4b6341f1",
@@ -1021,27 +1062,7 @@
           "verifiedAt": "2026-11-25 12:05（北京时间）",
           "verifiedSource": "官方页面",
           "claimUrl": "https://bigmodel.cn/activity/trial-card/PU9MTWG0PM",
-          "logo": "https://cdn.jsdelivr.net/gh/siuphua/omr-data@main/data/free-tokens/logos/bigmodel.cn.png"
-        },
-        {
-          "id": "f153933410",
-          "title": "fal Seedance 2.5 新账号登录送 2 段视频",
-          "provider": "fal",
-          "amountText": "2 段（按次赠送，暂不折价）",
-          "amountNote": "按次赠送，暂不折价",
-          "valueCny": null,
-          "howTo": "账号注册未满 7 天时登录，可免费生成 2 段，每段 10 秒、480p，次数不补充。注册后 7 天内添加付款方式验证可再得 3 段。工作流、API 调用和超额生成按量收费。",
-          "scope": "Seedance 2.5 文生视频、图生视频和参考生视频，限 fal 网页 Playground、Sandbox 和 fal Agent",
-          "tags": [
-            "限产品内使用",
-            "每段 10 秒"
-          ],
-          "validity": null,
-          "deadline": null,
-          "verifiedAt": "2026-11-26 12:03（北京时间）",
-          "verifiedSource": "官方页面",
-          "claimUrl": "https://fal.ai/seedance-2.5",
-          "logo": "https://cdn.jsdelivr.net/gh/siuphua/omr-data@main/data/free-tokens/logos/fal.ai.png"
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/bigmodel.cn.png"
         },
         {
           "id": "7c7aed0b6a",
@@ -1060,7 +1081,7 @@
           "verifiedAt": "2026-11-21 22:06（北京时间）",
           "verifiedSource": "官方页面",
           "claimUrl": "https://docs.qoder.cn/product-overview/billing-description",
-          "logo": "https://cdn.jsdelivr.net/gh/siuphua/omr-data@main/data/free-tokens/logos/docs.qoder.cn.png"
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/docs.qoder.cn.png"
         },
         {
           "id": "dc9bd75571",
@@ -1080,7 +1101,7 @@
           "verifiedAt": "2026-11-22 22:07（北京时间）",
           "verifiedSource": "官方页面",
           "claimUrl": "https://www.rev.ai/pricing",
-          "logo": "https://cdn.jsdelivr.net/gh/siuphua/omr-data@main/data/free-tokens/logos/www.rev.ai.png"
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/www.rev.ai.png"
         },
         {
           "id": "87516b67c9",
@@ -1100,7 +1121,7 @@
           "verifiedAt": "2026-11-20 22:05（北京时间）",
           "verifiedSource": "官方页面",
           "claimUrl": "https://docs.trae.cn/ide_plans-and-billing",
-          "logo": "https://cdn.jsdelivr.net/gh/siuphua/omr-data@main/data/free-tokens/logos/docs.trae.cn.png"
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/docs.trae.cn.png"
         },
         {
           "id": "4e510339f0",
@@ -1121,7 +1142,7 @@
           "verifiedAt": "2026-11-25 09:03（北京时间）",
           "verifiedSource": "官方页面",
           "claimUrl": "https://zcode.z.ai/cn/docs/configuration",
-          "logo": "https://cdn.jsdelivr.net/gh/siuphua/omr-data@main/data/free-tokens/logos/zcode.z.ai.png"
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/zcode.z.ai.png"
         },
         {
           "id": "3466c201a0",
@@ -1145,7 +1166,7 @@
           "verifiedAt": "2026-11-23 00:37（北京时间）",
           "verifiedSource": "官方页面",
           "claimUrl": "https://help.aliyun.com/zh/model-studio/introduction-to-yungongkaiwu",
-          "logo": "https://cdn.jsdelivr.net/gh/siuphua/omr-data@main/data/free-tokens/logos/help.aliyun.com.png"
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/help.aliyun.com.png"
         },
         {
           "id": "05a1636b1c",
@@ -1162,7 +1183,7 @@
           "verifiedAt": "2026-11-26 22:06（北京时间）",
           "verifiedSource": "官方页面",
           "claimUrl": "https://platform.modelbest.cn/console/docs/models",
-          "logo": "https://cdn.jsdelivr.net/gh/siuphua/omr-data@main/data/free-tokens/logos/platform.modelbest.cn.png"
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/platform.modelbest.cn.png"
         },
         {
           "id": "b8ff87922a",
@@ -1179,7 +1200,7 @@
           "verifiedAt": "2026-11-26 22:07（北京时间）",
           "verifiedSource": "官方页面",
           "claimUrl": "https://platform.modelbest.cn/console/docs/models",
-          "logo": "https://cdn.jsdelivr.net/gh/siuphua/omr-data@main/data/free-tokens/logos/platform.modelbest.cn.png"
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/platform.modelbest.cn.png"
         },
         {
           "id": "3da5f45b20",
@@ -1196,7 +1217,7 @@
           "verifiedAt": "2026-11-24 15:06（北京时间）",
           "verifiedSource": "官方页面",
           "claimUrl": "https://dots.ai/platform/docs",
-          "logo": "https://cdn.jsdelivr.net/gh/siuphua/omr-data@main/data/free-tokens/logos/dots.ai.png"
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/dots.ai.png"
         },
         {
           "id": "66b87e37bb",
@@ -1215,7 +1236,7 @@
           "verifiedAt": "2026-11-24 22:03（北京时间）",
           "verifiedSource": "官方页面",
           "claimUrl": "https://mimo.mi.com/docs/zh-CN/price/pay-as-you-go",
-          "logo": "https://cdn.jsdelivr.net/gh/siuphua/omr-data@main/data/free-tokens/logos/mimo.mi.com.png"
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/mimo.mi.com.png"
         },
         {
           "id": "b666beb4f1",
@@ -1234,7 +1255,7 @@
           "verifiedAt": "2026-11-26 22:07（北京时间）",
           "verifiedSource": "官方页面",
           "claimUrl": "https://maas.unisound.com/model-hub/u2-decision",
-          "logo": "https://cdn.jsdelivr.net/gh/siuphua/omr-data@main/data/free-tokens/logos/maas.unisound.com.png"
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/maas.unisound.com.png"
         },
         {
           "id": "6efe2df0fc",
@@ -1254,7 +1275,7 @@
           "verifiedAt": "2026-11-25 22:03（北京时间）",
           "verifiedSource": "官方页面",
           "claimUrl": "https://wiki.agnes-ai.cn/zh-Hans/docs/pricing",
-          "logo": "https://cdn.jsdelivr.net/gh/siuphua/omr-data@main/data/free-tokens/logos/wiki.agnes-ai.cn.png"
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/wiki.agnes-ai.cn.png"
         },
         {
           "id": "6adc50c4a6",
@@ -1276,7 +1297,7 @@
           "verifiedAt": "2026-11-26 22:03（北京时间）",
           "verifiedSource": "官方页面",
           "claimUrl": "https://docs.devin.ai/desktop/models",
-          "logo": "https://cdn.jsdelivr.net/gh/siuphua/omr-data@main/data/free-tokens/logos/docs.devin.ai.png"
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/docs.devin.ai.png"
         },
         {
           "id": "c5ed8d638f",
@@ -1285,7 +1306,7 @@
           "amountText": "免费（指定模型限免）",
           "amountNote": "指定模型限免",
           "valueCny": null,
-          "howTo": "在 OpenCode 内选择免费聊天模型，无需账号。Hy4 flash 限免到 11 月最后一个周末，具体结束时刻以客户端为准。Hy4 flash 和 DeepSeek V4.1 Flash 的输入不保留、不用于训练。部分试用模型会用数据改进模型，Flint 保留 30 天。两款 Nemotron 仅供测试，勿提交个人或机密数据。Beam 排除中国大陆及港澳。",
+          "howTo": "在 OpenCode 内选择免费聊天模型，无需账号。Hy4 flash 限免到 11 月最后一个周末，结束时刻以客户端为准。Hy4 flash 和 DeepSeek V4.1 Flash 的输入不保留、不用于训练。Seaglass Alpha 支持约 105 万 Token 的上下文，使用数据会被保留并用于改进模型。部分其他试用模型也会用数据改进模型，Flint 保留 30 天。两款 Nemotron 仅供测试，勿提交个人或机密数据。Beam 排除中国大陆及港澳。",
           "scope": "Hy4 flash、DeepSeek V4.1 Flash、MiMo-V2.6-Flash、Iceman、Flint 40B、Seaglass Alpha、Big Pickle 和两款 Nemotron 3.5 免费版；Nemotron 3.5 Lightning、Nemotron 3.5 Super VL",
           "tags": [
             "限产品内使用",
@@ -1295,10 +1316,10 @@
           ],
           "validity": null,
           "deadline": null,
-          "verifiedAt": "2026-11-26 22:05（北京时间）",
+          "verifiedAt": "2026-11-27 12:07（北京时间）",
           "verifiedSource": "官方页面",
           "claimUrl": "https://opencode.ai/docs/console/models/",
-          "logo": "https://cdn.jsdelivr.net/gh/siuphua/omr-data@main/data/free-tokens/logos/opencode.ai.png"
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/opencode.ai.png"
         },
         {
           "id": "93cd716588",
@@ -1318,7 +1339,7 @@
           "verifiedAt": "2026-11-23 00:36（北京时间）",
           "verifiedSource": "官方页面",
           "claimUrl": "https://index-translate.bilibili.com/site/home.html",
-          "logo": "https://cdn.jsdelivr.net/gh/siuphua/omr-data@main/data/free-tokens/logos/index-translate.bilibili.com.png"
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/index-translate.bilibili.com.png"
         },
         {
           "id": "968ff782c1",
@@ -1337,7 +1358,7 @@
           "verifiedAt": "2026-11-24 22:05（北京时间）",
           "verifiedSource": "官方页面",
           "claimUrl": "https://www.qiniu.com/ai/models",
-          "logo": "https://cdn.jsdelivr.net/gh/siuphua/omr-data@main/data/free-tokens/logos/www.qiniu.com.png"
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/www.qiniu.com.png"
         },
         {
           "id": "ecf17b98c0",
@@ -1358,7 +1379,7 @@
           "verifiedAt": "2026-11-21 22:06（北京时间）",
           "verifiedSource": "官方页面",
           "claimUrl": "https://www.siliconflow.cn/pricing",
-          "logo": "https://cdn.jsdelivr.net/gh/siuphua/omr-data@main/data/free-tokens/logos/www.siliconflow.cn.png"
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/www.siliconflow.cn.png"
         },
         {
           "id": "eead932578",
@@ -1379,7 +1400,7 @@
           "verifiedAt": "2026-11-23 00:33（北京时间）",
           "verifiedSource": "官方页面",
           "claimUrl": "https://somark.cn/oxr",
-          "logo": "https://cdn.jsdelivr.net/gh/siuphua/omr-data@main/data/free-tokens/logos/somark.cn.png"
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/somark.cn.png"
         }
       ]
     }
