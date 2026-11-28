@@ -1,0 +1,1427 @@
+{
+  "meta": {
+    "sourceUpdatedAt": "2026-11-28 09:11",
+    "syncedAt": "2026-11-28T02:30:13.476Z",
+    "fetchedAt": "2026-11-28T02:30:13.476Z",
+    "conversionRule": "valueCny 取自「能领多少」中的 ≈¥N / ¥N（人民币元）；标注「不折钱」或无法折算时为 null",
+    "etag": "W/\"free-tokens-60-md-d34e39d2ec484668\"",
+    "totalItems": 67
+  },
+  "sections": [
+    {
+      "key": "daily",
+      "name": "每天都能领",
+      "declaredCount": 15,
+      "items": [
+        {
+          "id": "6fa7915f4b",
+          "title": "长亭 MonkeyCode 每日签到领 100 积分",
+          "provider": "长亭 MonkeyCode",
+          "amountText": "≈¥0.5（每天 · 100 积分，按官方单独充值 10 元买 2000 积分）",
+          "amountNote": "每天 · 100 积分，按官方单独充值 10 元买 2000 积分",
+          "valueCny": 0.5,
+          "howTo": "在 MonkeyCode 网页打开钱包，手动签到领取，每天可领一次。积分可用于 MonkeyCode 编程任务中的模型调用。",
+          "scope": "MonkeyCode 内按积分计费的模型，如 DeepSeek V4 Pro、GLM-5.1",
+          "tags": [
+            "限产品内使用",
+            "需手动签到"
+          ],
+          "validity": null,
+          "deadline": null,
+          "verifiedAt": "2026-11-23 22:06（北京时间）",
+          "verifiedSource": "官方页面",
+          "claimUrl": "https://monkeycode.docs.baizhi.cloud/node/019d963c-425a-7c49-8126-d5308fd61cdc",
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/monkeycode.docs.baizhi.cloud.png"
+        },
+        {
+          "id": "e606001285",
+          "title": "海绵音乐每天登录领 100 积分",
+          "provider": "海绵音乐",
+          "amountText": "100 积分（每天 · 暂无适用的积分单独售价，暂不折价）",
+          "amountNote": "每天 · 暂无适用的积分单独售价，暂不折价",
+          "valueCny": null,
+          "howTo": "App 和网页各自发放每日登录积分，余额互通。官方条款列新用户每天 200 积分。写歌默认生成两首，扣 10 积分，改编或做同款默认扣 5 积分。每次有效分享另送 50 积分，每天最多 5 次，分享积分 3 个月后过期。",
+          "scope": "海绵音乐内的 Music 5.3 写歌、歌曲生成与改编",
+          "tags": [
+            "限产品内使用",
+            "登录自动发放"
+          ],
+          "validity": "按积分条款，登录积分次日凌晨 5 点清零",
+          "deadline": null,
+          "verifiedAt": "2026-11-24 12:04（北京时间）",
+          "verifiedSource": "官方页面",
+          "claimUrl": "https://lf3-cdn-tos.draftstatic.com/obj/ies-hotsoon-draft/music/credit_terms.html",
+          "logo": null
+        },
+        {
+          "id": "959e780cb9",
+          "title": "华为果办 OfficeAce 免费版每日登录送 50 积分",
+          "provider": "华为云 OfficeAce",
+          "amountText": "50 积分（每天 · 暂无适用的积分单独售价，暂不折价）",
+          "amountNote": "每天 · 暂无适用的积分单独售价，暂不折价",
+          "valueCny": null,
+          "howTo": "个人体验版用户登录并使用果办 OfficeAce 客户端或微信小程序，每天赠送 50 积分。积分可用于在果办中调用平台预置模型。",
+          "scope": "果办平台预置模型，如 GLM-5.2",
+          "tags": [
+            "限产品内使用",
+            "客户端或微信小程序",
+            "限时活动"
+          ],
+          "validity": "当日有效",
+          "deadline": null,
+          "verifiedAt": "2026-11-18 09:04（北京时间）",
+          "verifiedSource": "官方页面",
+          "claimUrl": "https://activity.huaweicloud.com/officeace.html#section-3",
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/activity.huaweicloud.com.png"
+        },
+        {
+          "id": "8c7b1e0188",
+          "title": "华为码道 Skill 创新赛每日签到领 100 积分",
+          "provider": "华为云码道",
+          "amountText": "100 积分（每天 · 暂无适用的积分单独售价，暂不折价）",
+          "amountNote": "每天 · 暂无适用的积分单独售价，暂不折价",
+          "valueCny": null,
+          "howTo": "面向已完成赛事报名、具备应用软件开发能力的个人、学生和组织。每天在码道 IDE 或网页端“活动福利”手动领取；企业参赛需企业认证。积分仅用于码道内置模型，不能当通用 API 余额；旧 Token 套餐需先切换为积分套餐。",
+          "scope": "码道内置模型，如 Kimi K3.1 Pro、GLM-5.3-Flash、DeepSeek V4.1 Flash；自接模型 API 费用另计",
+          "tags": [
+            "限产品内使用",
+            "需报名参赛",
+            "需有应用开发能力",
+            "报名至11月29日",
+            "积分制套餐"
+          ],
+          "validity": "积分有效至 12 月 26 日 23:59:59",
+          "deadline": "2026-12-05 23:59（北京时间）",
+          "verifiedAt": "2026-11-26 09:03（北京时间）",
+          "verifiedSource": "官方页面",
+          "claimUrl": "https://support.huaweicloud.com/offers-codeartsagent/codeartsagent_offers_0008.html",
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/support.huaweicloud.com.png"
+        },
+        {
+          "id": "e51b282cc3",
+          "title": "华为云码道免费版每日签到领 100 积分",
+          "provider": "华为云码道",
+          "amountText": "100 积分（每天 · 暂无适用的积分单独售价，暂不折价）",
+          "amountNote": "每天 · 暂无适用的积分单独售价，暂不折价",
+          "valueCny": null,
+          "howTo": "登录码道的“活动福利”点击“每日领取”；网页端、小程序、桌面端和 IDE 均可参与。积分只用于码道内置模型，不能当通用 API 余额；用完即停止调用。旧 Token 套餐需先切换为积分套餐。",
+          "scope": "码道内置模型，如 Kimi K3.1 Pro、GLM-5.3-Flash、DeepSeek V4.1 Flash；自接模型 API 费用另计",
+          "tags": [
+            "限产品内使用",
+            "积分制个人体验版",
+            "需每日手动领取"
+          ],
+          "validity": "当日领取当日有效",
+          "deadline": "2026-12-31 23:59（北京时间）",
+          "verifiedAt": "2026-11-22 22:10（北京时间）",
+          "verifiedSource": "官方页面",
+          "claimUrl": "https://support.huaweicloud.com/offers-codeartsagent/codeartsagent_offers_0004.html",
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/support.huaweicloud.com.png"
+        },
+        {
+          "id": "e362652fc4",
+          "title": "秒悟每天登录领 2000 积分",
+          "provider": "秒悟 Meoo",
+          "amountText": "2000 积分（每天 · 暂无适用的积分单独售价，暂不折价）",
+          "amountNote": "每天 · 暂无适用的积分单独售价，暂不折价",
+          "valueCny": null,
+          "howTo": "每天首次登录获赠 2000 积分，可在秒悟使用模型生成应用。例如 DeepSeek V4.1 Flash 每千输入 Token 扣 2 积分、每千输出扣 8 积分。",
+          "scope": "所有模型，如 Qwen4-Max、DeepSeek V4.1 Flash、Kimi K3.1 Pro、MiniMax M3.1 Flash、GLM-5.3-Flash，以及图像、视频等模型；Qwen3.8-Flash、Qwen4 Max、DeepSeek V4 Pro 0813、MiniMax-M3.1-Flash、GLM-5.3 Flash、qwen-image-3.0、wan3.0-video",
+          "tags": [
+            "限产品内使用"
+          ],
+          "validity": "领取后 7 天",
+          "deadline": null,
+          "verifiedAt": "2026-11-23 00:38（北京时间）",
+          "verifiedSource": "官方页面",
+          "claimUrl": "https://docs.meoo.com/pricing",
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/docs.meoo.com.png"
+        },
+        {
+          "id": "be18ff528b",
+          "title": "魔搭社区每天送 200 魔粒调模型 API",
+          "provider": "魔搭社区",
+          "amountText": "200 魔粒（每天 · 暂无适用的魔粒单独售价，暂不折价）",
+          "amountNote": "每天 · 暂无适用的魔粒单独售价，暂不折价",
+          "valueCny": null,
+          "howTo": "每日登录可领 200 魔粒，绑定阿里云账号后每日再加 50。调用 API-Inference 需绑定已实名的阿里云账号、完善个人信息并验证邮箱；每次消耗多少魔粒以模型详情页调用规则为准。魔粒还可用于社区内的图像、视频、音频生成及训练。",
+          "scope": "支持 API-Inference 的部分开源模型，如 DeepSeek-V4.1-Flash 和 DeepSeek-V4.1-Flash-1017；以模型详情页的魔搭社区推理入口为准；DeepSeek V4.1 Flash、DeepSeek V4.1 Flash 1017",
+          "tags": [
+            "要实名",
+            "要绑阿里云账号",
+            "需验证邮箱"
+          ],
+          "validity": "日赠当日有效，具体到期时间见账户",
+          "deadline": null,
+          "verifiedAt": "2026-11-27 22:08（北京时间）",
+          "verifiedSource": "官方页面",
+          "claimUrl": "https://www.modelscope.cn/posts/435591",
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/www.modelscope.cn.png"
+        },
+        {
+          "id": "b44895ab58",
+          "title": "ACE Music 每天 20 积分，最多生成 10 首歌",
+          "provider": "ACE Music",
+          "amountText": "20 积分（每天 · 暂无适用的积分单独售价，暂不折价）",
+          "amountNote": "每天 · 暂无适用的积分单独售价，暂不折价",
+          "valueCny": null,
+          "howTo": "最初从 ACE Music 注册的免费账号每天刷新 20 积分。最初从 ACE Studio 注册的免费账号，在 ACE Music 每月刷新 100 积分。ACE Music v1 和 v1.1 Preview 每次消耗 4 积分、通常生成两首，免费档不能下载或商用。ACE-Step v1.5 基础生成免费，可下载 MP3 并商用。使用视频素材另扣积分。",
+          "scope": "所有模型，包括 ACE Music v1、ACE Music v1.1 Preview 和 ACE-Step v1.5",
+          "tags": [
+            "限产品内使用",
+            "Music 注册账号",
+            "v1 系列不可下载",
+            "v1 系列限非商用"
+          ],
+          "validity": "每天重置，未用积分不累积",
+          "deadline": null,
+          "verifiedAt": "2026-11-25 22:03（北京时间）",
+          "verifiedSource": "官方页面",
+          "claimUrl": "https://acemusic.ai/zh/help/articles/credits-usage/",
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/acemusic.ai.png"
+        },
+        {
+          "id": "c177136006",
+          "title": "AStudio 体验版每天登录领 100 积分",
+          "provider": "科大讯飞 AStudio",
+          "amountText": "100 积分（每天 · 暂无适用的积分单独售价，暂不折价）",
+          "amountNote": "每天 · 暂无适用的积分单独售价，暂不折价",
+          "valueCny": null,
+          "howTo": "体验版每日登录客户端可免费领取 100 积分，用于 AStudio 内置模型的办公、代码与研究任务。需手机号登录；支持 Windows 10/11 64 位和 Apple 芯片 Mac，体验版权益为限时开放。模型与部分付费接口共用积分。",
+          "scope": "体验版可选的内置模型，官方列有 Spark、DeepSeek、GLM、Kimi、MiniMax 等系列；不含第三方独立服务",
+          "tags": [
+            "限产品内使用",
+            "仅电脑端",
+            "Mac 需苹果芯片"
+          ],
+          "validity": "每次领取后 31 天内有效",
+          "deadline": null,
+          "verifiedAt": "2026-11-14 03:05（北京时间）",
+          "verifiedSource": "官方页面",
+          "claimUrl": "https://agent.xfyun.cn/studio-guide/pricing",
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/agent.xfyun.cn.png"
+        },
+        {
+          "id": "8d4b249ecb",
+          "title": "Cloudflare Workers AI 每天免费 1 万 Neurons",
+          "provider": "Cloudflare",
+          "amountText": "1 万 Neurons（每天 · 按次赠送，暂不折价）",
+          "amountNote": "每天 · 按次赠送，暂不折价",
+          "valueCny": null,
+          "howTo": "免费计划通过 Workers 或 REST API 调用，所有调用共用每天 10,000 Neurons，北京时间 08:00 重置。例如 Gemma 4 26B 每百万输入 Token 扣 9091 Neurons、每百万输出扣 27273，两者共同消耗。免费计划用尽后报错；部分前沿模型要求付费计费方式。",
+          "scope": "Qwen3.8-27B、GPT-OSS 120B/20B、Gemma 4 26B、Llama 4 Scout、BGE-M3 等；不含 Kimi K2.6/K2.7 Code、GLM-5.2/5.3/5.3 Flash、DeepSeek V4 Flash 0731/V4.1 Flash 1017/V4 Pro 0813、Inkling 2 Small；GPT-OSS 20B",
+          "tags": [
+            "免费计划超额即停"
+          ],
+          "validity": "每天北京时间 8 点重置，不累积",
+          "deadline": null,
+          "verifiedAt": "2026-11-22 22:04（北京时间）",
+          "verifiedSource": "官方页面",
+          "claimUrl": "https://developers.cloudflare.com/workers-ai/platform/pricing/",
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/developers.cloudflare.com.png"
+        },
+        {
+          "id": "e25056571c",
+          "title": "EKHOS AI 每天免费本地转写 1 次，最长 30 分钟",
+          "provider": "EKHOS AI",
+          "amountText": "1 次（每天 · 按次赠送，暂不折价）",
+          "amountNote": "每天 · 按次赠送，暂不折价",
+          "valueCny": null,
+          "howTo": "在 Windows 10 或更新版本安装 EKHOS AI。免费档需验证邮箱，每天登录一次，即可在电脑上离线转写音频、视频或录音。每台电脑限一位用户。",
+          "scope": "EKHOS AI 免费档的本地 Whisper 语音转写",
+          "tags": [
+            "限产品内使用",
+            "仅电脑端",
+            "仅 Windows"
+          ],
+          "validity": null,
+          "deadline": null,
+          "verifiedAt": "2026-11-27 22:03（北京时间）",
+          "verifiedSource": "官方页面",
+          "claimUrl": "https://ekhos.ai/membership-account/pricing/",
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/ekhos.ai.png"
+        },
+        {
+          "id": "4332e11b83",
+          "title": "ERNIE 5.5 Flash Preview 限免",
+          "provider": "百度文心",
+          "amountText": "50 次（每天 · 按次赠送，暂不折价）",
+          "amountNote": "每天 · 按次赠送，暂不折价",
+          "valueCny": null,
+          "howTo": "通过 OpenRouter 调用 baidu/ernie-5.5-flash-preview:free，输入和输出均免费，无需购买额度。与其他免费模型共享每天 50 次、每分钟 20 次上限，失败请求也计入每日次数。",
+          "scope": "ERNIE 5.5 Flash Preview（baidu/ernie-5.5-flash-preview:free）",
+          "tags": [
+            "共享每日 50 次",
+            "每分钟 20 次"
+          ],
+          "validity": "未公布截止时间",
+          "deadline": null,
+          "verifiedAt": "2026-11-25 22:02（北京时间）",
+          "verifiedSource": "官方页面",
+          "claimUrl": "https://openrouter.ai/baidu/ernie-5.5-flash-preview:free",
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/openrouter.ai.png"
+        },
+        {
+          "id": "5c82e9f998",
+          "title": "MobileClaw 每日登录领 100 万 Token",
+          "provider": "移动云 MobileClaw",
+          "amountText": "100 万 Token（每天 · 仅限产品内使用，不按 API 官方价折价）",
+          "amountNote": "每天 · 仅限产品内使用，不按 API 官方价折价",
+          "valueCny": null,
+          "howTo": "完成移动云账号实名认证后，在 MobileClaw 电脑客户端登录领取，每个账号每天限领一次，活动期间最多领取 55 天。额度用于免费体验模型，先到期的额度优先抵扣。",
+          "scope": "MobileClaw 免费体验模型，如 DeepSeek V4.1 Flash、GLM-5.3-Flash；仅产品内使用；GLM-5.3 Flash",
+          "tags": [
+            "要实名",
+            "限产品内使用",
+            "仅电脑端",
+            "呼和浩特资源池"
+          ],
+          "validity": "每次领取后 30 天有效，过期清零",
+          "deadline": "2026-12-31 23:59（北京时间）",
+          "verifiedAt": "2026-11-19 22:06（北京时间）",
+          "verifiedSource": "官方页面",
+          "claimUrl": "https://ecloud.10086.cn/mobilecloud/act/2026-double11",
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/ecloud.10086.cn.png"
+        },
+        {
+          "id": "5131d8a505",
+          "title": "Qoder 国内版免费试用期每天领 100 Credits",
+          "provider": "阿里云 Qoder",
+          "amountText": "100 Credits（每天 · 暂无适用的Credits单独售价，暂不折价）",
+          "amountNote": "每天 · 暂无适用的Credits单独售价，暂不折价",
+          "valueCny": null,
+          "howTo": "北京时间每天 10 点至次日 10 点前，在 Qoder CN 桌面端、手机端或 IDE 主动领 100 通用 Credits，每轮一次。免费账号可在两周 Pro 试用期内领取，个人付费订阅和会员卡有效期内也可领。已领额度可在 Qoder CN 全系产品使用，不能当 API。",
+          "scope": "Qoder CN 的通用 Credits，试用期可用 Qwen3.8-Max、Qwen3.8-Flash 等模型，各功能按账号权益开放；Qwen3.8 Max",
+          "tags": [
+            "限产品内使用",
+            "需在试用期或会员有效期"
+          ],
+          "validity": "领取后 30 天",
+          "deadline": null,
+          "verifiedAt": "2026-11-23 00:33（北京时间）",
+          "verifiedSource": "官方页面",
+          "claimUrl": "https://docs.qoder.cn/events/100credits",
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/docs.qoder.cn.png"
+        },
+        {
+          "id": "b15d022cb8",
+          "title": "TRAE 每天签到领 100 积分",
+          "provider": "字节 TRAE",
+          "amountText": "100 积分（每天 · 暂无适用的积分单独售价，暂不折价）",
+          "amountNote": "每天 · 暂无适用的积分单独售价，暂不折价",
+          "valueCny": null,
+          "howTo": "在 TRAE 国内版点头像，菜单里点“签到”，免费账号每天领 100 积分（会员 200）；积分只能在 TRAE 里用。",
+          "scope": "TRAE 里的所有内置模型，如 GLM-5.3、DeepSeek-V4-Pro 等；Seed-Evolving 只给会员用；DeepSeek V4 Pro",
+          "tags": [
+            "限产品内使用",
+            "仅电脑端"
+          ],
+          "validity": "领取后 31 天",
+          "deadline": null,
+          "verifiedAt": "2026-11-27 22:03（北京时间）",
+          "verifiedSource": "官方页面",
+          "claimUrl": "https://docs.trae.cn/ide_plans-and-billing",
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/docs.trae.cn.png"
+        }
+      ]
+    },
+    {
+      "key": "sec2",
+      "name": "每周都能领",
+      "declaredCount": 1,
+      "items": [
+        {
+          "id": "a378e3c438",
+          "title": "云知声 U Plan 免费档每周 2500 积分",
+          "provider": "云知声",
+          "amountText": "2500 积分（每周 · 暂无适用的积分单独售价，暂不折价）",
+          "amountNote": "每周 · 暂无适用的积分单独售价，暂不折价",
+          "valueCny": null,
+          "howTo": "手机号登录并完成实名认证后，选 U Plan Free 手动领取，使用套餐自动分配的 API Key。另送语音转写 8 小时、语音合成 4 万字、两款文档识别模型各 737.5 万 Token、医学影像识别 47.5 万 Token，专项额度在当前套餐期内用完即止。",
+          "scope": "U2-Flash、U2-Med 用通用积分。U2-RadiMed、U2-ASR、U2-TTS、U2-OCR、U2-OCR-Med 另有各自额度。",
+          "tags": [
+            "要实名",
+            "5 小时 500 积分"
+          ],
+          "validity": "从开通时起每 7 天刷新，未用不结转",
+          "deadline": null,
+          "verifiedAt": "2026-11-26 22:08（北京时间）",
+          "verifiedSource": "官方页面",
+          "claimUrl": "https://maas.unisound.com/docs/token-plan/overview",
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/maas.unisound.com.png"
+        }
+      ]
+    },
+    {
+      "key": "monthly",
+      "name": "每月都能领",
+      "declaredCount": 9,
+      "items": [
+        {
+          "id": "beb6e6d565",
+          "title": "Rime 每月 50 美元语音模型额度",
+          "provider": "Rime",
+          "amountText": "≈¥333（每月 · 50 美元，按模型榜汇率）",
+          "amountNote": "每月 · 50 美元，按模型榜汇率",
+          "valueCny": 333,
+          "howTo": "可用于 Prism 语音对话、Mist v3 和 Coda v2 语音合成，以及 Rime STT 转文字。50 美元约可合成 1667 分钟 Mist v3。免费额度用完后，需自行升级并绑卡才能继续。免费档限评估和开发，不得上传来电录音、健康信息或他人个人数据，符合条款的输入输出可用于训练。",
+          "scope": "所有模型；Prism、Mist v3、Coda v2、Rime STT",
+          "tags": [
+            "无需绑卡",
+            "限商业用途",
+            "限评估和开发",
+            "年满 18 岁"
+          ],
+          "validity": "每月刷新，不结转",
+          "deadline": null,
+          "verifiedAt": "2026-11-22 22:04（北京时间）",
+          "verifiedSource": "官方页面",
+          "claimUrl": "https://www.rime.ai/pricing",
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/www.rime.ai.png"
+        },
+        {
+          "id": "bca194539b",
+          "title": "Drex 每月 5 美元模型调用额度",
+          "provider": "Nace AI",
+          "amountText": "≈¥33（每月 · 5 美元，按模型榜汇率）",
+          "amountNote": "每月 · 5 美元，按模型榜汇率",
+          "valueCny": 33,
+          "howTo": "首次月赠金在注册满一个月时到账，此后按注册日每月发 5 美元，下次发放时过期、不结转。需满足与新人赠金相同的 Google、满 30 天 GitHub 或验卡认证及邮箱、网络限额。与新人赠金共用账户余额，用于 Drex 决策、NDI 文档理解与 Drex Search。不开自动付费，用完即停；手动启用后超额会扣费。",
+          "scope": "所有模型：Drex 决策系列（含 Max v1.1、Max Finance、2.0）、文档理解与 Drex Search，共用账户余额；Drex Max v1.1、Drex Max Finance、Drex 2.0",
+          "tags": [
+            "注册满一个月",
+            "真人账号认证",
+            "可免绑卡",
+            "免费发放有限额"
+          ],
+          "validity": "按注册日发放，下次发放时过期",
+          "deadline": null,
+          "verifiedAt": "2026-11-27 22:03（北京时间）",
+          "verifiedSource": "官方页面",
+          "claimUrl": "https://console.nace.ai/docs/drex/reference/pricing",
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/console.nace.ai.png"
+        },
+        {
+          "id": "f84b4e794f",
+          "title": "LiveKit 每月送 2.50 美元模型推理额度",
+          "provider": "LiveKit",
+          "amountText": "≈¥17（每月 · 2.5 美元，按模型榜汇率）",
+          "amountNote": "每月 · 2.5 美元，按模型榜汇率",
+          "valueCny": 17,
+          "howTo": "Build 免费档通过 LiveKit Inference 调用文本、语音识别、语音合成和实时语音模型，支持 SDK 接入。额度用尽后停止新请求，不产生超额费用。另送的 1,000 分钟 Agent 托管时长不等于模型推理时长。约合 DeepSeek V4.1 Flash 2709 万 Token。",
+          "scope": "LiveKit Inference 支持的模型，如 Gemma 4 31B、DeepSeek V4.1 Flash、GPT-6.1 Sol、Gemini 4 Hydrogen、Deepgram Flux、Cartesia Sonic 3.6；自带厂商 API Key 的插件费用不抵扣；Gemma 4 31 B、DeepSeek V4 Pro、Kimi K2.6、Gemini 3.8 Flash、GPT-6.1 Terra、GPT-6 Sol、GPT-6 Luna、GPT-5.6 Luna、GPT-5.6 Sol、GPT-5.6 Terra、Deepgram Nova-3、Fish Audio S2.1 Pro、AssemblyAI Universal-3.6 Pro Streaming、Rime Coda、Rime Prism、GPT Realtime 2.1、Gemini 3.8 Live、Gemini 4 Argon、Gemini 4 Neon",
+          "tags": [
+            "无需绑卡",
+            "需开发接入"
+          ],
+          "validity": "每月 1 日刷新，未用额度不结转",
+          "deadline": null,
+          "verifiedAt": "2026-11-24 22:07（北京时间）",
+          "verifiedSource": "官方页面",
+          "claimUrl": "https://livekit.com/pricing",
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/livekit.com.png"
+        },
+        {
+          "id": "7409580366",
+          "title": "蚂蚁百灵每月 1 日送 10 元抵扣券",
+          "provider": "蚂蚁百灵",
+          "amountText": "¥10（每月 · 面值）",
+          "amountNote": "每月 · 面值",
+          "valueCny": 10,
+          "howTo": "每月 1 日向已使用百灵新计费平台的计费账户发 10 元 Token 抵扣券，可抵扣模型 API；当月有效、不结转。月中完成升级不补发当月券，从下月 1 日开始发放。",
+          "scope": "百灵开放平台上的所有模型，按各模型实际计费金额抵扣",
+          "tags": [
+            "新计费平台",
+            "月中升级不补发"
+          ],
+          "validity": "当月有效",
+          "deadline": null,
+          "verifiedAt": "2026-11-21 22:07（北京时间）",
+          "verifiedSource": "官方页面",
+          "claimUrl": "https://developer.ant-ling.com/zh-CN/docs/getting-started/changelog/billing-upgrade/",
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/developer.ant-ling.com.png"
+        },
+        {
+          "id": "b6acc3a18b",
+          "title": "EdgeOne Makers 每月 50 万 Token",
+          "provider": "腾讯 EdgeOne",
+          "amountText": "≈¥0.3（每月 · 50 万 Token，按 DeepSeek V4.1 Flash 官方价）",
+          "amountNote": "每月 · 50 万 Token，按 DeepSeek V4.1 Flash 官方价",
+          "valueCny": 0.3,
+          "howTo": "Makers 免费版每个账号每月共享 50 万 Token，适合演示、教学和技术验证。聊天模型可通过兼容 OpenAI／Anthropic 的 API 调用；Jev 使用原生 System One 决策接口。内置模型勿用于生产环境，自带厂商密钥的调用按厂商账户另计费；额度商业化后可能调整。",
+          "scope": "内置 DeepSeek V4 Pro／V4 Flash／V4.1 Flash、Kimi K2.6、MiniMax M3／M2.7、混元 Hy3／Hy3 Preview、朱雀及 Jev 决策模型；自带厂商密钥的模型不使用此额度；DeepSeek V4.1 Flash",
+          "tags": [
+            "仅限技术验证",
+            "账号共享额度",
+            "自接密钥另收费"
+          ],
+          "validity": null,
+          "deadline": null,
+          "verifiedAt": "2026-11-23 00:35（北京时间）",
+          "verifiedSource": "官方页面",
+          "claimUrl": "https://pages.edgeone.ai/zh/document/limits-and-quotas",
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/pages.edgeone.ai.png"
+        },
+        {
+          "id": "6298ea8057",
+          "title": "书生·端砚测试期每月送免费墨点",
+          "provider": "书生·端砚",
+          "amountText": "免费（测试期每月免费墨点，数量以账户为准）",
+          "amountNote": "测试期每月免费墨点，数量以账户为准",
+          "valueCny": null,
+          "howTo": "测试期每月赠送墨点，具体数量在「科研模型」查看；创建 API Key 后可调用平台模型，多个 Key 共用余额。调用按模型当前价格扣点，可在用量查询中查看消耗。",
+          "scope": "Token Plan 所有模型，如 DeepSeek-V4.1-Flash-1017、GLM-5.3、Qwen3.8-27B；各模型按当前价格消耗墨点；DeepSeek V4.1 Flash 1017",
+          "tags": [
+            "测试期福利",
+            "额度以账户为准"
+          ],
+          "validity": "开通次日为计费日，按账户月度周期清空",
+          "deadline": null,
+          "verifiedAt": "2026-11-27 22:11（北京时间）",
+          "verifiedSource": "官方页面",
+          "claimUrl": "https://www.shlab.org.cn/news/5444294",
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/www.shlab.org.cn.png"
+        },
+        {
+          "id": "d330ca8f99",
+          "title": "ElevenLabs 免费档每月 1 万积分",
+          "provider": "ElevenLabs",
+          "amountText": "1 万 积分（每月 · 暂无适用的积分单独售价，暂不折价）",
+          "amountNote": "每月 · 暂无适用的积分单独售价，暂不折价",
+          "valueCny": null,
+          "howTo": "免费注册无需绑卡，每个订阅周期获得 10,000 积分，积分不结转。可用于语音合成、转写、音效、音乐等免费档功能，也可通过接口调用支持的语音模型。图片每天最多生成 3 张。免费生成内容限非商用，公开发布须按官方要求署名。",
+          "scope": "Eleven v4、v4 Turbo、v3、Multilingual v2 等免费档语音模型，以及转写、音效、音乐和图片。免费档无法通过接口使用声音库里的声音，不含视频生成、付费声音克隆或商业授权。；Eleven v4 Turbo、Eleven v3",
+          "tags": [
+            "不可商用",
+            "公开发布须署名",
+            "不含视频生成"
+          ],
+          "validity": "每个订阅周期重置，不结转",
+          "deadline": null,
+          "verifiedAt": "2026-11-26 22:05（北京时间）",
+          "verifiedSource": "官方页面",
+          "claimUrl": "https://elevenlabs.io/pricing",
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/elevenlabs.io.png"
+        },
+        {
+          "id": "7b0d9bfed3",
+          "title": "MobileClaw 每月登录领 1000 万 Token",
+          "provider": "移动云 MobileClaw",
+          "amountText": "1000 万 Token（每月 · 仅限产品内使用，不按 API 官方价折价）",
+          "amountNote": "每月 · 仅限产品内使用，不按 API 官方价折价",
+          "valueCny": null,
+          "howTo": "完成移动云账号实名认证后，在 MobileClaw 电脑客户端登录领取，每个账号每月限领一次，11 月和 12 月共可领两次。额度用于免费体验模型，先到期的额度优先抵扣。",
+          "scope": "MobileClaw 免费体验模型，如 DeepSeek V4.1 Flash、GLM-5.3-Flash；仅产品内使用；GLM-5.3 Flash",
+          "tags": [
+            "要实名",
+            "限产品内使用",
+            "仅电脑端",
+            "呼和浩特资源池"
+          ],
+          "validity": "每次领取后 30 天有效，过期清零",
+          "deadline": "2026-12-31 23:59（北京时间）",
+          "verifiedAt": "2026-11-19 22:07（北京时间）",
+          "verifiedSource": "官方页面",
+          "claimUrl": "https://ecloud.10086.cn/mobilecloud/act/2026-double11",
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/ecloud.10086.cn.png"
+        },
+        {
+          "id": "5f8379ea36",
+          "title": "TRAE 国内版每月 500 积分",
+          "provider": "字节 TRAE",
+          "amountText": "500 积分（每月 · 暂无适用的积分单独售价，暂不折价）",
+          "amountNote": "每月 · 暂无适用的积分单独售价，暂不折价",
+          "valueCny": null,
+          "howTo": "TRAE 国内版免费账号每月登录送 500 积分，当月有效，只能在 TRAE 里用。",
+          "scope": "TRAE 里的所有内置模型，如 GLM-5.3、DeepSeek-V4-Pro 等；Seed-Evolving 只给会员用；DeepSeek V4 Pro",
+          "tags": [
+            "限产品内使用",
+            "仅电脑端"
+          ],
+          "validity": "当月有效",
+          "deadline": null,
+          "verifiedAt": "2026-11-22 22:10（北京时间）",
+          "verifiedSource": "官方页面",
+          "claimUrl": "https://www.trae.cn/pricing",
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/www.trae.cn.png"
+        }
+      ]
+    },
+    {
+      "key": "other",
+      "name": "其他福利",
+      "declaredCount": 42,
+      "items": [
+        {
+          "id": "a0bedf2335",
+          "title": "百度千帆新用户送 20 元代金券",
+          "provider": "百度千帆",
+          "amountText": "¥20（面值）",
+          "amountNote": "面值",
+          "valueCny": 20,
+          "howTo": "首次注册百度千帆并完成实名认证后，可获得 20 元代金券，用于千帆平台的模型调用。约合 GLM-5.3 345 万 Token。",
+          "scope": "千帆平台所有模型，如 DeepSeek V4.1、GLM-5.3",
+          "tags": [
+            "要实名"
+          ],
+          "validity": "到账后 1 个月",
+          "deadline": "2026-11-30 23:59（北京时间）",
+          "verifiedAt": "2026-11-26 22:03（北京时间）",
+          "verifiedSource": "官方页面",
+          "claimUrl": "https://cloud.baidu.com/doc/qianfan/index.html",
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/cloud.baidu.com.png"
+        },
+        {
+          "id": "5fd1a07ba0",
+          "title": "智谱 AutoClaw 国内版本周登录领 1 万积分",
+          "provider": "智谱 AutoClaw",
+          "amountText": "1 万 积分（暂无适用的积分单独售价，暂不折价）",
+          "amountNote": "暂无适用的积分单独售价，暂不折价",
+          "valueCny": null,
+          "howTo": "活动期间使用手机号登录 AutoClaw 国内版桌面客户端，每个账号可领一次。1 万积分相当于官方所称的 1 亿 Tokens，仅在客户端内调用内置模型时使用；自接模型接口另计费。",
+          "scope": "AutoClaw 内置 GLM 模型，如 GLM-5.3、GLM-5.3-Flash、GLM-5-Turbo、GLM-5V-Turbo 及 Auto 模式",
+          "tags": [
+            "要实名",
+            "限产品内使用",
+            "仅电脑端",
+            "国内版账号",
+            "每账号一次"
+          ],
+          "validity": null,
+          "deadline": "2026-11-29 23:59（北京时间）",
+          "verifiedAt": "2026-11-27 22:03（北京时间）",
+          "verifiedSource": "官方页面",
+          "claimUrl": "https://autoclaw.zhipuai.cn/blog/news/M11W4/",
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/autoclaw.zhipuai.cn.png"
+        },
+        {
+          "id": "f153933410",
+          "title": "fal Seedance 2.5 新账号登录送 2 段视频",
+          "provider": "fal",
+          "amountText": "2 段（按次赠送，暂不折价）",
+          "amountNote": "按次赠送，暂不折价",
+          "valueCny": null,
+          "howTo": "每段 10 秒、480p，参考生视频最多用 5 张参考图。注册后 7 天内添加付款方式验证可再得 3 段。次数不补充，工作流、接口调用和超额生成按量收费。",
+          "scope": "Seedance 2.5 文生视频、图生视频和参考生视频，限 fal 网页 Playground、Sandbox 和 fal Agent",
+          "tags": [
+            "限产品内使用",
+            "账号注册未满 7 天",
+            "每段 10 秒"
+          ],
+          "validity": null,
+          "deadline": "2026-12-01 23:59（北京时间）",
+          "verifiedAt": "2026-11-27 09:06（北京时间）",
+          "verifiedSource": "官方页面",
+          "claimUrl": "https://fal.ai/seedance-2.5",
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/fal.ai.png"
+        },
+        {
+          "id": "f7c35b8dae",
+          "title": "千问办公限时免费用 MiniMax M3.1 Flash",
+          "provider": "阿里 千问办公",
+          "amountText": "免费（文本推理限时免积分）",
+          "amountNote": "文本推理限时免积分",
+          "valueCny": null,
+          "howTo": "千问办公个人版（含免费版）和企业标准版用户，无需报名，在网页、桌面端或钉钉电脑端选择带「限免」标识的 MiniMax M3.1 Flash。仅文本推理不扣积分，联网搜索、图片和音视频等附加能力仍可能扣积分。欠费账户无法调用，高峰期可能排队。",
+          "scope": "MiniMax M3.1 Flash 的文本推理；MiniMax-M3.1-Flash",
+          "tags": [
+            "限产品内使用",
+            "个人免费版可用",
+            "仅文本推理免积分"
+          ],
+          "validity": null,
+          "deadline": "2026-12-02 23:59（北京时间）",
+          "verifiedAt": "2026-11-27 22:09（北京时间）",
+          "verifiedSource": "官方页面",
+          "claimUrl": "https://docs.qwenwork.cn/activity/minimax-m3-1-flash-free",
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/docs.qwenwork.cn.png"
+        },
+        {
+          "id": "36061cbffc",
+          "title": "商汤小浣熊限时免费用 SenseNova 6.8 Flash",
+          "provider": "商汤小浣熊",
+          "amountText": "免费（限时免费体验）",
+          "amountNote": "限时免费体验",
+          "valueCny": null,
+          "howTo": "在商汤小浣熊内体验 SenseNova 6.8 Flash，可用于办公文档和设计生成。本次限免适用于小浣熊内的模型体验，开放平台的调用按其规则计费。",
+          "scope": "商汤小浣熊内的 SenseNova 6.8 Flash",
+          "tags": [
+            "限产品内使用"
+          ],
+          "validity": null,
+          "deadline": "2026-12-01 23:59（北京时间）",
+          "verifiedAt": "2026-11-27 22:03（北京时间）",
+          "verifiedSource": "官方页面",
+          "claimUrl": "https://sensetime.com/cn/news/sensenova-6-8-flash-release-20261103-1421",
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/sensetime.com.png"
+        },
+        {
+          "id": "56e621e391",
+          "title": "Qoder 国际版限时免费用 HungerG",
+          "provider": "阿里云 Qoder",
+          "amountText": "免费（不扣 Credits，每日次数以客户端为准）",
+          "amountNote": "不扣 Credits，每日次数以客户端为准",
+          "valueCny": null,
+          "howTo": "在最新版 Qoder 国际版桌面端或 Qoder IDE 选 HungerG。个人免费账号、零积分账号均可用，最高思考强度也不扣积分。达每日上限后次日恢复，付费账号上限更高。北京时间 11 月 30 日 24 点结束，此后按官方费率扣积分。",
+          "scope": "Qoder 国际版及其 IDE 中的 HungerG",
+          "tags": [
+            "限产品内使用",
+            "仅电脑端",
+            "限个人账号",
+            "每日次数有限",
+            "无需领取"
+          ],
+          "validity": null,
+          "deadline": "2026-12-01 00:00（北京时间）",
+          "verifiedAt": "2026-11-25 22:02（北京时间）",
+          "verifiedSource": "官方页面",
+          "claimUrl": "https://docs.qoder.com/zh/events/hungerg-free",
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/docs.qoder.com.png"
+        },
+        {
+          "id": "bb1681adf0",
+          "title": "Qoder 国内版限时免费用 HungerG",
+          "provider": "阿里云 Qoder",
+          "amountText": "免费（HungerG 不扣积分，每日次数以客户端为准）",
+          "amountNote": "HungerG 不扣积分，每日次数以客户端为准",
+          "valueCny": null,
+          "howTo": "个人账号更新到最新版 Qoder 国内版或 Qoder 国内版 IDE，选择 HungerG 即可。零积分也能用，调用 HungerG 不扣积分。每个账号有每日使用上限，具体次数以客户端为准。到上限后等次日恢复，当天无法用积分继续。其他模型按各自规则计费。北京时间 11 月 30 日 24 点结束，之后按官方公布的费率扣积分。",
+          "scope": "Qoder 国内版及其 IDE 中的 HungerG",
+          "tags": [
+            "限产品内使用",
+            "仅电脑端",
+            "限个人账号",
+            "每日次数有限",
+            "无需领取"
+          ],
+          "validity": null,
+          "deadline": "2026-12-01 00:00（北京时间）",
+          "verifiedAt": "2026-11-26 09:03（北京时间）",
+          "verifiedSource": "官方页面",
+          "claimUrl": "https://docs.qoder.cn/events/hungerg-free",
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/docs.qoder.cn.png"
+        },
+        {
+          "id": "a22f98e236",
+          "title": "WorkBuddy Hy4 flash 限时免费",
+          "provider": "腾讯 WorkBuddy",
+          "amountText": "免费（每天有免费额度，用完后继续使用消耗积分）",
+          "amountNote": "每天有免费额度，用完后继续使用消耗积分",
+          "valueCny": null,
+          "howTo": "在 WorkBuddy 模型选择器选 Hy4 flash。限免期间每天有免费额度，用完后继续使用消耗积分，额度和刷新时间以产品内显示为准。腾讯云 TokenHub 的 Hy4 flash 接口单独计费。",
+          "scope": "WorkBuddy 内的 Hy4 flash；其他模型及腾讯云 TokenHub 接口不包含在本次限免中",
+          "tags": [
+            "限产品内使用",
+            "仅电脑端",
+            "每日限额",
+            "用完后扣积分"
+          ],
+          "validity": null,
+          "deadline": "2026-11-30 23:59（北京时间）",
+          "verifiedAt": "2026-11-25 22:05（北京时间）",
+          "verifiedSource": "官方页面",
+          "claimUrl": "https://hunyuan.tencent.com/research/100145?langVersion=zh",
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/hunyuan.tencent.com.png"
+        },
+        {
+          "id": "19631f9e79",
+          "title": "Telnyx 新用户送 25 美元 AI 额度",
+          "provider": "Telnyx",
+          "amountText": "≈¥166（25 美元，按模型榜汇率）",
+          "amountNote": "25 美元，按模型榜汇率",
+          "valueCny": 166,
+          "howTo": "用邮箱注册预试用账户后自动到账，无需绑卡；可抵 Telnyx Inference 等 AI 产品用量，用完即停。主动升级为完整账户后，原 25 美元优惠会被替换为 5 美元通用额度。约合 DeepSeek V4.1 Flash 1017 2.7 亿 Token。",
+          "scope": "Telnyx AI 产品中的所有模型，包括自营 Inference 的 DeepSeek V4.1 Flash、GLM-5.3、GLM-5.3 Flash、Kimi K3 等；也会与其他 AI 产品共用这份额度；DeepSeek V4.1 Flash 1017",
+          "tags": [
+            "无需绑卡",
+            "升级后改为 5 美元"
+          ],
+          "validity": "有效期以账户显示的剩余天数为准",
+          "deadline": null,
+          "verifiedAt": "2026-11-22 22:08（北京时间）",
+          "verifiedSource": "官方页面",
+          "claimUrl": "https://support.telnyx.com/en/articles/14327893-telnyx-pretrial-accounts",
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/support.telnyx.com.png"
+        },
+        {
+          "id": "fd3cf00ca3",
+          "title": "VModel 新用户送 10 美元模型调用额度",
+          "provider": "VModel",
+          "amountText": "≈¥67（10 美元，按模型榜汇率）",
+          "amountNote": "10 美元，按模型榜汇率",
+          "valueCny": 67,
+          "howTo": "新账号注册送 10 美元，网页和模型接口共用余额。按 VModel 自家的 Talking Photo Turbo 公布价，每秒 0.002 美元，约可生成 5000 秒视频。余额不足时服务暂停，续用需手动充值。",
+          "scope": "所有模型，包括 VModel 的 Talking Photo Turbo 视频生成模型，以及平台的图像、视频和文本模型",
+          "tags": [
+            "免绑卡",
+            "余额不足即停"
+          ],
+          "validity": "赠金有效期以账户显示为准",
+          "deadline": null,
+          "verifiedAt": "2026-11-20 22:07（北京时间）",
+          "verifiedSource": "官方页面",
+          "claimUrl": "https://vmodel.ai/docs/api/pricing.html",
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/vmodel.ai.png"
+        },
+        {
+          "id": "e7892c7499",
+          "title": "Drex 新人 5 美元模型调用额度",
+          "provider": "Nace AI",
+          "amountText": "≈¥33（5 美元，按模型榜汇率）",
+          "amountNote": "5 美元，按模型榜汇率",
+          "valueCny": 33,
+          "howTo": "用 Google 或注册满 30 天的 GitHub 账号认证，可免绑卡领 5 美元；也可验卡，验证不扣费。可调用 Drex 决策、NDI 文档理解与 Drex Search；按 Drex 2.0 输入价约可用 1.67 亿 Token。不支持临时邮箱，同网普通邮箱及同企业域名每天最多 3 个账号获赠金。不开自动付费，余额不足即停；手动启用后超额会扣费。",
+          "scope": "所有模型：Drex 决策系列（含 Max v1.1、Max Finance、2.0）、文档理解与 Drex Search，共用账户余额；Drex Max v1.1、Drex Max Finance、Drex 2.0",
+          "tags": [
+            "新人专享",
+            "真人账号认证",
+            "可免绑卡",
+            "免费发放有限额"
+          ],
+          "validity": "注册后 3 个月有效，每人一次",
+          "deadline": null,
+          "verifiedAt": "2026-11-26 22:03（北京时间）",
+          "verifiedSource": "官方页面",
+          "claimUrl": "https://console.nace.ai/docs/drex/reference/pricing",
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/console.nace.ai.png"
+        },
+        {
+          "id": "cf0914a0d6",
+          "title": "Zed 14 天试用领 5 美元模型额度",
+          "provider": "Zed",
+          "amountText": "≈¥33（5 美元，按模型榜汇率）",
+          "amountNote": "5 美元，按模型榜汇率",
+          "valueCny": 33,
+          "howTo": "开启 Zed Pro 试用后获得 5 美元 GPT-6 Luna 用量，与 Delta 共用同一笔试用余额；无需信用卡，到期自动转免费版。",
+          "scope": "GPT-6 Luna；试用期不含其他托管模型",
+          "tags": [
+            "限产品内使用",
+            "仅电脑端",
+            "与 Delta 共用额度"
+          ],
+          "validity": "14 天",
+          "deadline": null,
+          "verifiedAt": "2026-11-24 22:03（北京时间）",
+          "verifiedSource": "官方页面",
+          "claimUrl": "https://zed.dev/docs/account/plans-and-pricing",
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/zed.dev.png"
+        },
+        {
+          "id": "2a6413620f",
+          "title": "长亭 MonkeyCode 新人送 5000 积分",
+          "provider": "长亭 MonkeyCode",
+          "amountText": "≈¥25（5000 积分，按官方单独充值 10 元买 2000 积分）",
+          "amountNote": "5000 积分，按官方单独充值 10 元买 2000 积分",
+          "valueCny": 25,
+          "howTo": "新用户注册可获一份初始积分，用于 MonkeyCode 编程任务中的模型调用。",
+          "scope": "MonkeyCode 内按积分计费的模型，如 DeepSeek V4 Pro、GLM-5.1",
+          "tags": [
+            "限产品内使用",
+            "限新用户"
+          ],
+          "validity": null,
+          "deadline": null,
+          "verifiedAt": "2026-11-25 09:10（北京时间）",
+          "verifiedSource": "官方页面",
+          "claimUrl": "https://monkeycode.docs.baizhi.cloud/node/01a012e5-d949-76db-96d0-b9cf63283026",
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/monkeycode.docs.baizhi.cloud.png"
+        },
+        {
+          "id": "2fb31b47d4",
+          "title": "UCloud 星图新客领 25 元算力金",
+          "provider": "UCloud 星图",
+          "amountText": "¥25（面值）",
+          "amountNote": "面值",
+          "valueCny": 25,
+          "howTo": "新客实名后领取星力卡，每人限领、限兑一张。卡密发到注册邮箱，在星图兑换后抵扣模型调用费。名额先到先得，超出可用额度按平台价格计费。约合 DeepSeek V4.1 Flash 1017 4072 万 Token。",
+          "scope": "星图模型调用，活动列出 DeepSeek、通义千问、Kimi、智谱 GLM、MiniMax 等系列，具体抵扣范围以兑换页为准；DeepSeek V4.1 Flash 1017、GLM-5.3、GLM-5.3 Flash、Kimi K3.1 Pro",
+          "tags": [
+            "要实名",
+            "限新用户",
+            "名额有限"
+          ],
+          "validity": "以星力卡兑换页为准",
+          "deadline": null,
+          "verifiedAt": "2026-11-22 09:10（北京时间）",
+          "verifiedSource": "官方页面",
+          "claimUrl": "https://www.ucloud.cn/site/active/astraflow-credit",
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/www.ucloud.cn.png"
+        },
+        {
+          "id": "776300e6d3",
+          "title": "硅基流动实名认证送 16 元代金券",
+          "provider": "硅基流动",
+          "amountText": "¥16（面值）",
+          "amountNote": "面值",
+          "valueCny": 16,
+          "howTo": "在硅基流动完成实名认证后，手动领一张 16 元通用代金券，老用户也能领；可用于平台上的模型 API。",
+          "scope": "平台上的所有模型，含 Pro 模型和高速模型；API、批量推理、微调都能用",
+          "tags": [
+            "要实名"
+          ],
+          "validity": "领取后 180 天",
+          "deadline": "2027-01-01 00:00（北京时间）",
+          "verifiedAt": "2026-11-23 00:33（北京时间）",
+          "verifiedSource": "官方页面",
+          "claimUrl": "https://www.siliconflow.cn/news/od7wj9rr23p95uhihmhrombp",
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/www.siliconflow.cn.png"
+        },
+        {
+          "id": "700afbdd8b",
+          "title": "阿里云百炼新人部分模型各送 100 万 Token",
+          "provider": "阿里云百炼",
+          "amountText": "≈¥5.4 起（100 万 Token，按 Qwen4 Max 官方价，每个模型各一份）",
+          "amountNote": "100 万 Token，按 Qwen4 Max 官方价，每个模型各一份",
+          "valueCny": 5.4,
+          "howTo": "首次开通百炼自动发放，需实名认证。每个参与模型（含单独发放的快照）额度独立。请用通用 API Key 调用实时推理，Batch、调优、部署、存储和套餐专属 Key 不使用这份额度。旧额度仍可用至耗尽或到期。用完后按量收费，可开启「免费额度用完即停」。",
+          "scope": "北京地域的部分模型，例如 qwen4-max、qwen3.8-max、qwen3.8-flash、kimi-k3.1-pro、kimi-k2.7-code、deepseek-v4.1-flash 和 deepseek-v4-pro-0813。带 1017 的 V4.1 Flash、带 0902 的 Qwen3.8 Max、无后缀的 DeepSeek V4 Pro 和 Kimi K3 无新手额度。；Qwen4 Max、Kimi K3.1 Pro、Kimi K2.7 Code、DeepSeek V4.1 Flash、DeepSeek V4 Pro 0813",
+          "tags": [
+            "要实名",
+            "只限北京地域",
+            "需通用 API Key",
+            "用完自动转付费"
+          ],
+          "validity": "自开通、模型发布或获批较晚日起 90 天",
+          "deadline": null,
+          "verifiedAt": "2026-11-21 22:06（北京时间）",
+          "verifiedSource": "官方页面",
+          "claimUrl": "https://help.aliyun.com/zh/model-studio/new-free-quota",
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/help.aliyun.com.png"
+        },
+        {
+          "id": "045917ad31",
+          "title": "电信星辰 MaaS 领 10 亿 Token",
+          "provider": "中国电信 星辰MaaS",
+          "amountText": "10 亿 Token（模型未收录于模型榜，暂不折价）",
+          "amountNote": "模型未收录于模型榜，暂不折价",
+          "valueCny": null,
+          "howTo": "每个账号限领一次。领券后在电脑端登录星辰 MaaS，到「开通管理」用券 0 元购买资源包。平台另有按量后付费，开通前在控制台确认额度用完后的计费规则。",
+          "scope": "Xing4.1-Preview",
+          "tags": [
+            "每账号限领一次",
+            "电脑端核销"
+          ],
+          "validity": "领券后 10 日内核销",
+          "deadline": "2026-12-15 23:59（北京时间）",
+          "verifiedAt": "2026-11-28 09:10（北京时间）",
+          "verifiedSource": "官方页面",
+          "claimUrl": "https://console.teleai.com.cn/model-service-web/coupon",
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/console.teleai.com.cn.png"
+        },
+        {
+          "id": "e855344407",
+          "title": "豆包电脑版新用户领 30 天免费体验",
+          "provider": "豆包",
+          "amountText": "免费（30 天免费体验套餐，不含生视频和 Pro 模型）",
+          "amountNote": "30 天免费体验套餐，不含生视频和 Pro 模型",
+          "valueCny": null,
+          "howTo": "新用户下载并登录豆包电脑版或豆包工作电脑版，在体验套餐弹窗领取。可用于工作任务、PPT、表格、文档和代码等；这份体验权益不等于线上标准套餐。",
+          "scope": "豆包电脑版和豆包工作电脑版里的非 Pro 模型与工作能力，如豆包 2.1 Turbo；不含生视频、Pro 模型，也不是开放平台 API 余额",
+          "tags": [
+            "限产品内使用",
+            "仅电脑端",
+            "不含 Pro",
+            "不含视频生成"
+          ],
+          "validity": "领取后 30 天",
+          "deadline": null,
+          "verifiedAt": "2026-11-21 22:07（北京时间）",
+          "verifiedSource": "官方页面",
+          "claimUrl": "https://www.sina.cn/news/detail/5360778855319190.html",
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/www.sina.cn.png"
+        },
+        {
+          "id": "6431dc6a84",
+          "title": "华为码道 Skill 创新赛报名领 2000 积分",
+          "provider": "华为云码道",
+          "amountText": "2000 积分（暂无适用的积分单独售价，暂不折价）",
+          "amountNote": "暂无适用的积分单独售价，暂不折价",
+          "valueCny": null,
+          "howTo": "面向具备应用软件开发能力的个人、学生和组织。完成赛事报名后，在码道 IDE 或网页端“活动福利”手动领取；报名后首次开通并登录码道的新用户另赠 3000 积分。企业参赛需企业认证。积分仅抵码道内置模型调用，不能当通用 API 余额；旧 Token 套餐需先切换为积分套餐。",
+          "scope": "码道内置模型，如 Kimi K3.1 Pro、GLM-5.3-Flash、DeepSeek V4.1 Flash；自接模型 API 费用另计",
+          "tags": [
+            "限产品内使用",
+            "需报名参赛",
+            "需有应用开发能力",
+            "报名至11月29日",
+            "积分制套餐"
+          ],
+          "validity": "积分有效至 12 月 26 日 23:59:59",
+          "deadline": "2026-12-05 23:59（北京时间）",
+          "verifiedAt": "2026-11-27 22:11（北京时间）",
+          "verifiedSource": "官方页面",
+          "claimUrl": "https://support.huaweicloud.com/offers-codeartsagent/codeartsagent_offers_0008.html",
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/support.huaweicloud.com.png"
+        },
+        {
+          "id": "79954514d8",
+          "title": "秒悟新用户首月 5000 积分",
+          "provider": "秒悟 Meoo",
+          "amountText": "5000 积分（暂无适用的积分单独售价，暂不折价）",
+          "amountNote": "暂无适用的积分单独售价，暂不折价",
+          "valueCny": null,
+          "howTo": "免费版新用户首月获得 5000 积分，可在秒悟使用模型生成应用。例如 DeepSeek V4.1 Flash 每千输入 Token 扣 2 积分、每千输出扣 8 积分；输入和输出共同消耗。",
+          "scope": "所有模型，如 Qwen4-Max、DeepSeek V4.1 Flash、Kimi K3.1 Pro、MiniMax M3.1 Flash、GLM-5.3-Flash，以及图像、视频等模型；Qwen3.8-Flash、Qwen4 Max、DeepSeek V4 Pro 0813、MiniMax-M3.1-Flash、GLM-5.3 Flash、qwen-image-3.0、wan3.0-video",
+          "tags": [
+            "限产品内使用"
+          ],
+          "validity": "首月有效",
+          "deadline": null,
+          "verifiedAt": "2026-11-22 22:07（北京时间）",
+          "verifiedSource": "官方页面",
+          "claimUrl": "https://docs.meoo.com/pricing",
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/docs.meoo.com.png"
+        },
+        {
+          "id": "c339ea5c5b",
+          "title": "千问办公首次激活桌面端送 30 天基础版",
+          "provider": "阿里 千问办公",
+          "amountText": "500 积分（暂无适用的积分单独售价，暂不折价）",
+          "amountNote": "暂无适用的积分单独售价，暂不折价",
+          "valueCny": null,
+          "howTo": "此前未在千问办公桌面端发起过任务，且当前没有生效的付费会员，下载桌面端并完成新手任务，系统校验后自动发放个人基础版。基础版含 500 通用积分，活动期间标准模式的纯文本任务不限量，图片、音视频等任务按实际用量扣积分。",
+          "scope": "千问办公个人基础版可用模型，如 Qwen 3.8 Max",
+          "tags": [
+            "限产品内使用",
+            "仅电脑端",
+            "限首次激活",
+            "需完成新手任务"
+          ],
+          "validity": "激活会员后 30 天",
+          "deadline": null,
+          "verifiedAt": "2026-11-27 22:05（北京时间）",
+          "verifiedSource": "官方页面",
+          "claimUrl": "https://docs.qwenwork.cn/activity/desktop-activation-benefit",
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/docs.qwenwork.cn.png"
+        },
+        {
+          "id": "e28673d676",
+          "title": "腾讯云混元生 3D 新人领 100 积分",
+          "provider": "腾讯云 TokenHub",
+          "amountText": "100 积分（暂无适用的积分单独售价，暂不折价）",
+          "amountNote": "暂无适用的积分单独售价，暂不折价",
+          "valueCny": null,
+          "howTo": "首次开通后，在模型广场的新人免费体验入口选择混元生 3D。积分用于同名默认推理服务，额度分配以控制台为准。未开启按量付费时，用完即停。3.0 和 3.1 每次消耗 15 至 60 积分，极速版每次消耗 15 至 25 积分。",
+          "scope": "HY-3D-3.0、3.1、Express，以及 Component、Format、Motion、Retopology、Rigging、Texture、UV。领取时以控制台的可选型号为准。；HY-3D-3.1、HY-3D-Express、HY-3D-Component、HY-3D-Format、HY-3D-Motion、HY-3D-Retopology、HY-3D-Rigging、HY-3D-Texture、HY-3D-UV",
+          "tags": [
+            "要实名",
+            "限新用户"
+          ],
+          "validity": "领取后 1 年",
+          "deadline": "2026-12-31 23:59（北京时间）",
+          "verifiedAt": "2026-11-27 12:06（北京时间）",
+          "verifiedSource": "官方页面",
+          "claimUrl": "https://cloud.tencent.com/document/product/1823/130053",
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/cloud.tencent.com.png"
+        },
+        {
+          "id": "d61e903272",
+          "title": "微信小程序送 10 亿 Token 与 10 万张生图",
+          "provider": "腾讯云开发",
+          "amountText": "10 亿 Token（仅限产品内使用，不按 API 官方价折价）",
+          "amountNote": "仅限产品内使用，不按 API 官方价折价",
+          "valueCny": null,
+          "howTo": "需微信小程序账号，在公众平台报名成长计划，每账号一次。赠送额度限小程序基础库、小程序调用云函数或云托管、云开发控制台使用。Token 用完后，资源点套餐继续扣套餐，非资源点套餐调用失败。生图用完停止。改用 Hy-Image-3.5-preview 需手动适配。未有环境者另赠 6 个月个人版环境。",
+          "scope": "生文：hy4-flash、hy4、hy4-preview（12 月 7 日零点下线）、hy3、DeepSeek V4.1 Flash／1017；生图：hy-image-v3.5-preview 及旧 HY-Image-3.0 文生图、图生图（12 月 1 日零点下线）；Hy 4 Preview、Hy 3、DeepSeek V4.1 Flash 1017、HY-Image-3.0-Plus-4090-Tob-v1.0、HY-Image-v3.0-I2I-ToB-v1.0.1",
+          "tags": [
+            "要实名",
+            "限产品内使用",
+            "需微信小程序账号",
+            "仅限云开发内使用",
+            "Token 用完扣套餐",
+            "文生图",
+            "图生图"
+          ],
+          "validity": "资源包自申请成功起 6 个月有效",
+          "deadline": "2026-12-31 23:59（北京时间）",
+          "verifiedAt": "2026-11-25 15:05（北京时间）",
+          "verifiedSource": "官方页面",
+          "claimUrl": "https://docs.cloudbase.net/ai/ai-inspire-plan",
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/docs.cloudbase.net.png"
+        },
+        {
+          "id": "57d2410eab",
+          "title": "智谱 AutoClaw 2.2.0 升级礼 5000 积分",
+          "provider": "智谱 AutoClaw",
+          "amountText": "5000 积分（暂无适用的积分单独售价，暂不折价）",
+          "amountNote": "暂无适用的积分单独售价，暂不折价",
+          "valueCny": null,
+          "howTo": "AutoClaw 国内版升级至 2.2.0 并登录后，自动获得 5000 积分（官方称约 5000 万 Tokens）。仅在 AutoClaw 内使用，自接模型 API 另行计费。",
+          "scope": "AutoClaw 内置 GLM 模型，如 GLM-5.3、GLM-5.3-Flash、GLM-5-Turbo、GLM-5V-Turbo 及 Auto 模式；自接 API 另计费",
+          "tags": [
+            "要实名",
+            "限产品内使用",
+            "仅电脑端",
+            "国内版账号",
+            "升级并登录"
+          ],
+          "validity": "到账后 7 天有效",
+          "deadline": null,
+          "verifiedAt": "2026-11-27 22:03（北京时间）",
+          "verifiedSource": "官方页面",
+          "claimUrl": "https://autoclaw.zhipuai.cn/blog/news/autoclaw-2-2-0-upgrade-data-migration/",
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/autoclaw.zhipuai.cn.png"
+        },
+        {
+          "id": "8c4b6341f1",
+          "title": "智谱 GLM Coding Plan 免费领 7 天体验卡",
+          "provider": "智谱",
+          "amountText": "2000 积分（暂无适用的积分单独售价，暂不折价）",
+          "amountNote": "暂无适用的积分单独售价，暂不折价",
+          "valueCny": null,
+          "howTo": "从未订阅过 GLM Coding Plan 的用户每人可领一次，领取后立即生效。积分可在 ZCode、Claude Code、Codex、Cursor 等智谱支持的工具中使用，需用个人编程套餐的密钥，不能抵扣标准模型接口费用。",
+          "scope": "GLM Coding Plan 支持的模型，包括 GLM-5.4、GLM-5.3、GLM-5.3-Flash；GLM-5.3 Flash",
+          "tags": [
+            "限产品内使用",
+            "从未订阅用户",
+            "每人限领一次"
+          ],
+          "validity": "领取后 7 天，积分用完即结束",
+          "deadline": null,
+          "verifiedAt": "2026-11-25 12:05（北京时间）",
+          "verifiedSource": "官方页面",
+          "claimUrl": "https://bigmodel.cn/activity/trial-card/PU9MTWG0PM",
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/bigmodel.cn.png"
+        },
+        {
+          "id": "7c7aed0b6a",
+          "title": "Qoder 新人 300 Credits 加两周 Pro",
+          "provider": "阿里云 Qoder",
+          "amountText": "300 Credits（暂无适用的Credits单独售价，暂不折价）",
+          "amountNote": "暂无适用的Credits单独售价，暂不折价",
+          "valueCny": null,
+          "howTo": "在 Qoder CN 官网注册后，首次登录国内版客户端可获两周 Pro 试用和 300 Credits。支持桌面端、插件、命令行及支持的网页、手机端，额度用于 Qoder CN 产品。",
+          "scope": "Qoder CN 试用期可用 Qwen3.8 Max、Qwen3.8 Flash 等高级模型，具体按账号权益开放。；Qwen3.8-Max、Qwen3.8-Flash",
+          "tags": [
+            "限产品内使用"
+          ],
+          "validity": null,
+          "deadline": null,
+          "verifiedAt": "2026-11-21 22:06（北京时间）",
+          "verifiedSource": "官方页面",
+          "claimUrl": "https://docs.qoder.cn/product-overview/billing-description",
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/docs.qoder.cn.png"
+        },
+        {
+          "id": "dc9bd75571",
+          "title": "Rev AI 新用户送约 5 小时 Reverb 语音转写额度",
+          "provider": "Rev AI",
+          "amountText": "5 小时（按次赠送，暂不折价）",
+          "amountNote": "按次赠送，暂不折价",
+          "valueCny": null,
+          "howTo": "开新账号可领相当于 5 小时 Reverb 语音转写的额度，无需绑定信用卡。额度也可用于 Whisper Large 等其他产品，换用其他型号或语言时，可转写时长按各自费率计算。",
+          "scope": "所有模型，如 Reverb ASR、Whisper Large",
+          "tags": [
+            "新用户",
+            "无需绑卡"
+          ],
+          "validity": null,
+          "deadline": null,
+          "verifiedAt": "2026-11-22 22:07（北京时间）",
+          "verifiedSource": "官方页面",
+          "claimUrl": "https://www.rev.ai/pricing",
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/www.rev.ai.png"
+        },
+        {
+          "id": "87516b67c9",
+          "title": "TRAE 国内版新用户注册送 1500 积分",
+          "provider": "字节 TRAE",
+          "amountText": "1500 积分（暂无适用的积分单独售价，暂不折价）",
+          "amountNote": "暂无适用的积分单独售价，暂不折价",
+          "valueCny": null,
+          "howTo": "新注册 TRAE 国内版，免费账号一次性得 1500 积分，31 天内有效；积分只能在 TRAE 里调内置模型。",
+          "scope": "TRAE 里的所有内置模型，如 GLM-5.3、DeepSeek-V4-Pro 等；Seed-Evolving 只给会员用；DeepSeek V4 Pro",
+          "tags": [
+            "限产品内使用",
+            "仅电脑端"
+          ],
+          "validity": "领取后 31 天",
+          "deadline": null,
+          "verifiedAt": "2026-11-27 22:03（北京时间）",
+          "verifiedSource": "官方页面",
+          "claimUrl": "https://docs.trae.cn/ide_plans-and-billing",
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/docs.trae.cn.png"
+        },
+        {
+          "id": "4e510339f0",
+          "title": "ZCode 新用户 5 天体验，每天 800 万 Token",
+          "provider": "智谱 ZCode",
+          "amountText": "免费（5 天内每天 800 万 Token，两模型分额）",
+          "amountNote": "5 天内每天 800 万 Token，两模型分额",
+          "valueCny": null,
+          "howTo": "新用户登录 ZCode 后，在模型设置中打开 Start Plan 领取免费体验。两款模型每天各有一份额度，用量以 Start Plan 显示为准。",
+          "scope": "GLM-5.4（每天 300 万 Token）和 GLM-5.3-Flash（每天 500 万 Token）；GLM-5.3 Flash",
+          "tags": [
+            "限产品内使用",
+            "仅电脑端",
+            "两款模型各有独立额度"
+          ],
+          "validity": "体验期 5 天",
+          "deadline": null,
+          "verifiedAt": "2026-11-25 09:03（北京时间）",
+          "verifiedSource": "官方页面",
+          "claimUrl": "https://zcode.z.ai/cn/docs/configuration",
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/zcode.z.ai.png"
+        },
+        {
+          "id": "3466c201a0",
+          "title": "阿里云在读学生领 300 元模型抵扣金",
+          "provider": "阿里云百炼",
+          "amountText": "¥300（面值）",
+          "amountNote": "面值",
+          "valueCny": 300,
+          "howTo": "中国高校在读学生完成学生实名认证后可领 300 元，认证有效期内每 12 个月可领一次。后付费调用须满足账户余额要求，余额须大于当月冻结金额。使用不适用的模型、超额或过期会按资费收费。",
+          "scope": "百炼后付费推理、训练、部署、知识库；可抵高校 AI 通行证一次。2026 年 7 月 14 日后领取的券不抵三方直供及 Happy、万相、向量排序、垂类、百聆语音、千问语音、千问全模态商品。已有优惠账单均不可抵扣，以账单商品名称为准。",
+          "tags": [
+            "仅在读学生",
+            "要实名",
+            "超额按量收费",
+            "每日限量",
+            "优惠账单不可抵扣",
+            "有账户余额要求"
+          ],
+          "validity": "领取后一年",
+          "deadline": "2027-03-31 23:59（北京时间）",
+          "verifiedAt": "2026-11-23 00:37（北京时间）",
+          "verifiedSource": "官方页面",
+          "claimUrl": "https://help.aliyun.com/zh/model-studio/introduction-to-yungongkaiwu",
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/help.aliyun.com.png"
+        },
+        {
+          "id": "05a1636b1c",
+          "title": "面壁 MiniCPM-OCR API 限时免费",
+          "provider": "面壁智能 MiniCPM",
+          "amountText": "免费（两款 OCR 模型输入和输出限时免费）",
+          "amountNote": "两款 OCR 模型输入和输出限时免费",
+          "valueCny": null,
+          "howTo": "登录面壁国内开放平台后创建 API Key。MiniCPM-OCR-1.0 用于图片和 PDF 文档解析，MiniCPM-OCR-Jev 给识别结果评分。两款的输入和输出限时免费，免费截止时间与调用限制以平台为准。",
+          "scope": "MiniCPM-OCR-1.0、MiniCPM-OCR-Jev",
+          "tags": [],
+          "validity": null,
+          "deadline": null,
+          "verifiedAt": "2026-11-26 22:06（北京时间）",
+          "verifiedSource": "官方页面",
+          "claimUrl": "https://platform.modelbest.cn/console/docs/models",
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/platform.modelbest.cn.png"
+        },
+        {
+          "id": "b8ff87922a",
+          "title": "面壁 MiniCPM-V 4.7 两款视觉模型限时免费",
+          "provider": "面壁智能 MiniCPM",
+          "amountText": "免费（两款 MiniCPM-V 4.7 输入和输出限时免费）",
+          "amountNote": "两款 MiniCPM-V 4.7 输入和输出限时免费",
+          "valueCny": null,
+          "howTo": "在面壁开放平台登录后创建 API Key，可用两款 MiniCPM-V 4.7 做图像问答、图表理解和视频理解，均支持 256K 上下文。两款的输入和输出均限时免费。",
+          "scope": "MiniCPM-V-4.7-1B、MiniCPM-V-4.7-35B-A3B",
+          "tags": [],
+          "validity": null,
+          "deadline": null,
+          "verifiedAt": "2026-11-28 09:11（北京时间）",
+          "verifiedSource": "官方页面",
+          "claimUrl": "https://platform.modelbest.cn/console/docs/models",
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/platform.modelbest.cn.png"
+        },
+        {
+          "id": "3da5f45b20",
+          "title": "小红书 dots3-note Preview 免费调用",
+          "provider": "小红书 Dots",
+          "amountText": "免费（当前免费体验，暂未公布截止日）",
+          "amountNote": "当前免费体验，暂未公布截止日",
+          "valueCny": null,
+          "howTo": "在 Dots 开放平台用手机号登录并创建 API Key。单个密钥默认每分钟 60 次请求、150 万 Token。恢复收费前，官方会在官网和开放平台提前告知。",
+          "scope": "Dots 开放平台的 dots3-note-prev（dots3-note Preview）",
+          "tags": [],
+          "validity": null,
+          "deadline": null,
+          "verifiedAt": "2026-11-24 15:06（北京时间）",
+          "verifiedSource": "官方页面",
+          "claimUrl": "https://dots.ai/platform/docs",
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/dots.ai.png"
+        },
+        {
+          "id": "66b87e37bb",
+          "title": "小米 MiMo 三款 V2.5 语音合成模型限时免费",
+          "provider": "小米 MiMo",
+          "amountText": "免费（三款语音合成模型限时免费）",
+          "amountNote": "三款语音合成模型限时免费",
+          "valueCny": null,
+          "howTo": "用小米 MiMo 开放平台账号创建普通接口密钥，即可调用语音合成、音色克隆和音色设计模型。三款模型分别按每账号每分钟 100 次请求、1000 万 Token 限流。其他模型和联网服务按各自价格计费。",
+          "scope": "MiMo V2.5 TTS、MiMo V2.5 TTS VoiceClone、MiMo V2.5 TTS VoiceDesign；mimo-v2.5-tts、mimo-v2.5-tts-voiceclone、mimo-v2.5-tts-voicedesign",
+          "tags": [
+            "每款每分钟限百次"
+          ],
+          "validity": null,
+          "deadline": null,
+          "verifiedAt": "2026-11-24 22:03（北京时间）",
+          "verifiedSource": "官方页面",
+          "claimUrl": "https://mimo.mi.com/docs/zh-CN/price/pay-as-you-go",
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/mimo.mi.com.png"
+        },
+        {
+          "id": "b666beb4f1",
+          "title": "云知声 U2-Decision 限时免费调用",
+          "provider": "云知声",
+          "amountText": "免费（输入、缓存命中和输出限时免费）",
+          "amountNote": "输入、缓存命中和输出限时免费",
+          "valueCny": null,
+          "howTo": "用手机号登录云知声 Token Hub，完成开发者实名认证后创建按量计费 API Key。通过 SystemOne 接口调用 U2-Decision，可输出分类、路由和评分等结构化结果，每分钟最多 100 次请求。",
+          "scope": "仅 U2-Decision（4B 决策模型）",
+          "tags": [
+            "要实名"
+          ],
+          "validity": null,
+          "deadline": null,
+          "verifiedAt": "2026-11-26 22:07（北京时间）",
+          "verifiedSource": "官方页面",
+          "claimUrl": "https://maas.unisound.com/model-hub/u2-decision",
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/maas.unisound.com.png"
+        },
+        {
+          "id": "6efe2df0fc",
+          "title": "Agnes AI 文本、图片与视频模型限免",
+          "provider": "Agnes AI",
+          "amountText": "免费（指定 Flash 型号限时免费）",
+          "amountNote": "指定 Flash 型号限时免费",
+          "valueCny": null,
+          "howTo": "在中国站用免费／默认账号创建免费 API 密钥后调用，支持文本、图像生成与编辑、视频生成。每分钟请求数随平台容量动态调整，以控制台显示为准；同类型密钥共用限额。仅指定 Flash 型号免费，Pro 系列及普通 Video 2.5 收费；Agent Plan 订阅密钥按刊例价扣积分，不参与限免。",
+          "scope": "文本 Agnes 2.5 Flash、3.0 Flash；图片 Image 2.0／2.1／2.5 Flash；视频 Video 2.5 Flash。不含 Pro 系列和普通 Video 2.5。；Agnes 3.0 Flash、Agnes Image 2.0 Flash、Agnes Image 2.1 Flash、Agnes Image 2.5 Flash、Agnes Video 2.5 Flash",
+          "tags": [
+            "仅免费密钥",
+            "付费订阅不适用"
+          ],
+          "validity": null,
+          "deadline": null,
+          "verifiedAt": "2026-11-25 22:03（北京时间）",
+          "verifiedSource": "官方页面",
+          "claimUrl": "https://wiki.agnes-ai.cn/zh-Hans/docs/pricing",
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/wiki.agnes-ai.cn.png"
+        },
+        {
+          "id": "6adc50c4a6",
+          "title": "Devin Desktop 免费用 SWE-2 Flash Medium",
+          "provider": "Devin Desktop",
+          "amountText": "免费（SWE-2 Flash Medium 限时免费，用量以账户为准）",
+          "amountNote": "SWE-2 Flash Medium 限时免费，用量以账户为准",
+          "valueCny": null,
+          "howTo": "免费账号可在 Devin Desktop 或 Devin CLI 中选择 SWE-2 Flash Medium，用于代码编写、审查和开发任务。免费档提供少量 Agent 额度，具体用量与免费截止以客户端为准。",
+          "scope": "SWE-2 Flash Medium；High 和 Max 需付费套餐，不含 Devin 云端会话及其他模型",
+          "tags": [
+            "限产品内使用",
+            "仅电脑端",
+            "用量以账户为准",
+            "免费期后收费"
+          ],
+          "validity": null,
+          "deadline": "2026-12-05 02:00（北京时间）",
+          "verifiedAt": "2026-11-27 22:03（北京时间）",
+          "verifiedSource": "官方页面",
+          "claimUrl": "https://docs.devin.ai/desktop/models",
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/docs.devin.ai.png"
+        },
+        {
+          "id": "c5ed8d638f",
+          "title": "OpenCode 限时免费用 Hy4 flash、DeepSeek 等模型",
+          "provider": "OpenCode",
+          "amountText": "免费（指定模型限免）",
+          "amountNote": "指定模型限免",
+          "valueCny": null,
+          "howTo": "在 OpenCode 内选择免费聊天模型，无需账号。Hy4 flash 限免到 11 月最后一个周末，结束时刻以客户端为准。Hy4 flash 和 DeepSeek V4.1 Flash 的输入不保留、不用于训练。Seaglass Alpha 支持约 105 万 Token 的上下文，使用数据会被保留并用于改进模型。部分其他试用模型也会用数据改进模型，Flint 保留 30 天。两款 Nemotron 仅供测试，勿提交个人或机密数据。Beam 排除中国大陆及港澳。",
+          "scope": "Hy4 flash、DeepSeek V4.1 Flash、MiMo-V2.6-Flash、Iceman、Flint 40B、Seaglass Alpha、Big Pickle 和两款 Nemotron 3.5 免费版；Nemotron 3.5 Lightning、Nemotron 3.5 Super VL",
+          "tags": [
+            "限产品内使用",
+            "部分数据用于训练",
+            "Nemotron 仅测试",
+            "Beam 限海外"
+          ],
+          "validity": null,
+          "deadline": null,
+          "verifiedAt": "2026-11-27 12:07（北京时间）",
+          "verifiedSource": "官方页面",
+          "claimUrl": "https://opencode.ai/docs/console/models/",
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/opencode.ai.png"
+        },
+        {
+          "id": "93cd716588",
+          "title": "哔哩哔哩 Index-Translate 免费图文翻译接口",
+          "provider": "哔哩哔哩",
+          "amountText": "免费（免费调用，次数以官方为准）",
+          "amountNote": "免费调用，次数以官方为准",
+          "valueCny": null,
+          "howTo": "官方开放 Index-Translate-35B-A3B 公网推理接口，无需注册，可用于文字和图片翻译。兼容 OpenAI 接口，地址为 https://index-translate.bilibili.com/v1。",
+          "scope": "Index-Translate-35B-A3B 文字及图片翻译",
+          "tags": [
+            "无需注册",
+            "图文翻译"
+          ],
+          "validity": null,
+          "deadline": null,
+          "verifiedAt": "2026-11-23 00:36（北京时间）",
+          "verifiedSource": "官方页面",
+          "claimUrl": "https://index-translate.bilibili.com/site/home.html",
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/index-translate.bilibili.com.png"
+        },
+        {
+          "id": "968ff782c1",
+          "title": "七牛云免费调用 Nemotron 3 Ultra",
+          "provider": "七牛云",
+          "amountText": "免费（Nemotron 3 Ultra 免费版输入、输出均为 0 元）",
+          "amountNote": "Nemotron 3 Ultra 免费版输入、输出均为 0 元",
+          "valueCny": null,
+          "howTo": "在七牛云控制台创建 API Key，调用 nvidia/nemotron-3-ultra-550b-a55b0-free，输入和输出均为 0 元。未实名的新用户从首次使用起可试用 24 小时，之后须实名才能继续调用。",
+          "scope": "仅 Nemotron 3 Ultra 550B A55B 免费版",
+          "tags": [
+            "要实名"
+          ],
+          "validity": null,
+          "deadline": null,
+          "verifiedAt": "2026-11-24 22:05（北京时间）",
+          "verifiedSource": "官方页面",
+          "claimUrl": "https://www.qiniu.com/ai/models",
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/www.qiniu.com.png"
+        },
+        {
+          "id": "ecf17b98c0",
+          "title": "OCR、语音、向量与生图模型免费调用",
+          "provider": "硅基流动",
+          "amountText": "免费（指定模型免费，按模型限速）",
+          "amountNote": "指定模型免费，按模型限速",
+          "valueCny": null,
+          "howTo": "实名认证后可通过硅基流动 API 调用定价页标为免费的模型，覆盖文档识别、语音识别与生成、向量检索、重排和生图。免费模型调用费用为 0，各模型有固定速率限制；Pro 版本及其他标价模型另行收费。",
+          "scope": "定价页标免费的型号，包括 PaddleOCR-VL-1.5、BGE 向量与重排、Kolors、SenseVoiceSmall、XingChenASR V3.2、V3.2-Ultra、Diarize-V3.0、XingChenGSR V1.0、Hunyuan-MT-7B 和 Xing4.0-29B。Xing-Audio4.0-ASR-Preview 与 Pro 版本收费。；bge-m3、bge-reranker-v2-m3、bge-large-zh-v1.5、bge-large-en-v1.5、XingChenASR-V3.2、XingChenASR-V3.2-Ultra、XingChenASR-Diarize-V3.0、XingChenGSR-V1.0",
+          "tags": [
+            "要实名",
+            "按模型限速",
+            "文生图"
+          ],
+          "validity": null,
+          "deadline": null,
+          "verifiedAt": "2026-11-21 22:06（北京时间）",
+          "verifiedSource": "官方页面",
+          "claimUrl": "https://www.siliconflow.cn/pricing",
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/www.siliconflow.cn.png"
+        },
+        {
+          "id": "eead932578",
+          "title": "SoMark OXR 免费解析文档 API",
+          "provider": "SoMark",
+          "amountText": "免费（免费文档解析，次数以官方为准）",
+          "amountNote": "免费文档解析，次数以官方为准",
+          "valueCny": null,
+          "howTo": "无需注册或申请密钥，可用 OXR 免费 API 将 PDF 和文档图片解析为 Markdown 或 JSON。请求需排队，官方不保证稳定性，不建议生产使用。国内用 free-oxr.somark.cn。",
+          "scope": "仅 OXR 文档解析模型，不含 SoMark 其他服务",
+          "tags": [
+            "无需注册",
+            "请求排队",
+            "不建议生产使用"
+          ],
+          "validity": "开放至服务器承载上限",
+          "deadline": null,
+          "verifiedAt": "2026-11-23 00:33（北京时间）",
+          "verifiedSource": "官方页面",
+          "claimUrl": "https://somark.cn/oxr",
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/somark.cn.png"
+        }
+      ]
+    }
+  ]
+}

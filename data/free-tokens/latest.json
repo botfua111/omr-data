@@ -1,11 +1,11 @@
 {
   "meta": {
-    "sourceUpdatedAt": "2026-11-27 12:07",
-    "syncedAt": "2026-11-27T04:59:33.762Z",
-    "fetchedAt": "2026-11-27T04:48:48.179Z",
+    "sourceUpdatedAt": "2026-11-28 09:11",
+    "syncedAt": "2026-11-28T02:30:13.476Z",
+    "fetchedAt": "2026-11-28T02:30:13.476Z",
     "conversionRule": "valueCny 取自「能领多少」中的 ≈¥N / ¥N（人民币元）；标注「不折钱」或无法折算时为 null",
-    "etag": "W/\"free-tokens-60-md-fd93328c0156a372\"",
-    "totalItems": 66
+    "etag": "W/\"free-tokens-60-md-d34e39d2ec484668\"",
+    "totalItems": 67
   },
   "sections": [
     {
@@ -153,7 +153,7 @@
           ],
           "validity": "日赠当日有效，具体到期时间见账户",
           "deadline": null,
-          "verifiedAt": "2026-11-24 05:55（北京时间）",
+          "verifiedAt": "2026-11-27 22:08（北京时间）",
           "verifiedSource": "官方页面",
           "claimUrl": "https://www.modelscope.cn/posts/435591",
           "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/www.modelscope.cn.png"
@@ -236,7 +236,7 @@
           ],
           "validity": null,
           "deadline": null,
-          "verifiedAt": "2026-11-24 12:06（北京时间）",
+          "verifiedAt": "2026-11-27 22:03（北京时间）",
           "verifiedSource": "官方页面",
           "claimUrl": "https://ekhos.ai/membership-account/pricing/",
           "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/ekhos.ai.png"
@@ -318,7 +318,7 @@
           ],
           "validity": "领取后 31 天",
           "deadline": null,
-          "verifiedAt": "2026-11-20 22:05（北京时间）",
+          "verifiedAt": "2026-11-27 22:03（北京时间）",
           "verifiedSource": "官方页面",
           "claimUrl": "https://docs.trae.cn/ide_plans-and-billing",
           "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/docs.trae.cn.png"
@@ -396,7 +396,7 @@
           ],
           "validity": "按注册日发放，下次发放时过期",
           "deadline": null,
-          "verifiedAt": "2026-11-20 22:03（北京时间）",
+          "verifiedAt": "2026-11-27 22:03（北京时间）",
           "verifiedSource": "官方页面",
           "claimUrl": "https://console.nace.ai/docs/drex/reference/pricing",
           "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/console.nace.ai.png"
@@ -408,7 +408,7 @@
           "amountText": "≈¥17（每月 · 2.5 美元，按模型榜汇率）",
           "amountNote": "每月 · 2.5 美元，按模型榜汇率",
           "valueCny": 17,
-          "howTo": "Build 免费档通过 LiveKit Inference 调用文本、语音识别、语音合成和实时语音模型，支持 SDK 接入。额度用尽后停止新请求，不产生超额费用。另送的 1,000 分钟 Agent 托管时长不等于模型推理时长。约合 DeepSeek V4.1 Flash 2712 万 Token。",
+          "howTo": "Build 免费档通过 LiveKit Inference 调用文本、语音识别、语音合成和实时语音模型，支持 SDK 接入。额度用尽后停止新请求，不产生超额费用。另送的 1,000 分钟 Agent 托管时长不等于模型推理时长。约合 DeepSeek V4.1 Flash 2709 万 Token。",
           "scope": "LiveKit Inference 支持的模型，如 Gemma 4 31B、DeepSeek V4.1 Flash、GPT-6.1 Sol、Gemini 4 Hydrogen、Deepgram Flux、Cartesia Sonic 3.6；自带厂商 API Key 的插件费用不抵扣；Gemma 4 31 B、DeepSeek V4 Pro、Kimi K2.6、Gemini 3.8 Flash、GPT-6.1 Terra、GPT-6 Sol、GPT-6 Luna、GPT-5.6 Luna、GPT-5.6 Sol、GPT-5.6 Terra、Deepgram Nova-3、Fish Audio S2.1 Pro、AssemblyAI Universal-3.6 Pro Streaming、Rime Coda、Rime Prism、GPT Realtime 2.1、Gemini 3.8 Live、Gemini 4 Argon、Gemini 4 Neon",
           "tags": [
             "无需绑卡",
@@ -477,7 +477,7 @@
           ],
           "validity": "开通次日为计费日，按账户月度周期清空",
           "deadline": null,
-          "verifiedAt": "2026-11-20 22:08（北京时间）",
+          "verifiedAt": "2026-11-27 22:11（北京时间）",
           "verifiedSource": "官方页面",
           "claimUrl": "https://www.shlab.org.cn/news/5444294",
           "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/www.shlab.org.cn.png"
@@ -550,7 +550,7 @@
     {
       "key": "other",
       "name": "其他福利",
-      "declaredCount": 41,
+      "declaredCount": 42,
       "items": [
         {
           "id": "a0bedf2335",
@@ -589,7 +589,7 @@
           ],
           "validity": null,
           "deadline": "2026-11-29 23:59（北京时间）",
-          "verifiedAt": "2026-11-25 09:03（北京时间）",
+          "verifiedAt": "2026-11-27 22:03（北京时间）",
           "verifiedSource": "官方页面",
           "claimUrl": "https://autoclaw.zhipuai.cn/blog/news/M11W4/",
           "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/autoclaw.zhipuai.cn.png"
@@ -616,6 +616,27 @@
           "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/fal.ai.png"
         },
         {
+          "id": "f7c35b8dae",
+          "title": "千问办公限时免费用 MiniMax M3.1 Flash",
+          "provider": "阿里 千问办公",
+          "amountText": "免费（文本推理限时免积分）",
+          "amountNote": "文本推理限时免积分",
+          "valueCny": null,
+          "howTo": "千问办公个人版（含免费版）和企业标准版用户，无需报名，在网页、桌面端或钉钉电脑端选择带「限免」标识的 MiniMax M3.1 Flash。仅文本推理不扣积分，联网搜索、图片和音视频等附加能力仍可能扣积分。欠费账户无法调用，高峰期可能排队。",
+          "scope": "MiniMax M3.1 Flash 的文本推理；MiniMax-M3.1-Flash",
+          "tags": [
+            "限产品内使用",
+            "个人免费版可用",
+            "仅文本推理免积分"
+          ],
+          "validity": null,
+          "deadline": "2026-12-02 23:59（北京时间）",
+          "verifiedAt": "2026-11-27 22:09（北京时间）",
+          "verifiedSource": "官方页面",
+          "claimUrl": "https://docs.qwenwork.cn/activity/minimax-m3-1-flash-free",
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/docs.qwenwork.cn.png"
+        },
+        {
           "id": "36061cbffc",
           "title": "商汤小浣熊限时免费用 SenseNova 6.8 Flash",
           "provider": "商汤小浣熊",
@@ -629,7 +650,7 @@
           ],
           "validity": null,
           "deadline": "2026-12-01 23:59（北京时间）",
-          "verifiedAt": "2026-11-23 00:34（北京时间）",
+          "verifiedAt": "2026-11-27 22:03（北京时间）",
           "verifiedSource": "官方页面",
           "claimUrl": "https://sensetime.com/cn/news/sensenova-6-8-flash-release-20261103-1421",
           "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/sensetime.com.png"
@@ -706,9 +727,9 @@
           "id": "19631f9e79",
           "title": "Telnyx 新用户送 25 美元 AI 额度",
           "provider": "Telnyx",
-          "amountText": "≈¥167（25 美元，按模型榜汇率）",
+          "amountText": "≈¥166（25 美元，按模型榜汇率）",
           "amountNote": "25 美元，按模型榜汇率",
-          "valueCny": 167,
+          "valueCny": 166,
           "howTo": "用邮箱注册预试用账户后自动到账，无需绑卡；可抵 Telnyx Inference 等 AI 产品用量，用完即停。主动升级为完整账户后，原 25 美元优惠会被替换为 5 美元通用额度。约合 DeepSeek V4.1 Flash 1017 2.7 亿 Token。",
           "scope": "Telnyx AI 产品中的所有模型，包括自营 Inference 的 DeepSeek V4.1 Flash、GLM-5.3、GLM-5.3 Flash、Kimi K3 等；也会与其他 AI 产品共用这份额度；DeepSeek V4.1 Flash 1017",
           "tags": [
@@ -741,28 +762,6 @@
           "verifiedSource": "官方页面",
           "claimUrl": "https://vmodel.ai/docs/api/pricing.html",
           "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/vmodel.ai.png"
-        },
-        {
-          "id": "8262f8b45c",
-          "title": "超算互联网新用户领 1 亿 Token",
-          "provider": "超算互联网",
-          "amountText": "≈¥60（1 亿 Token，按 GLM-5.3 Flash 官方价）",
-          "amountNote": "1 亿 Token，按 GLM-5.3 Flash 官方价",
-          "valueCny": 60,
-          "howTo": "活动期间首次注册的新用户，在 SCNet 客户端「新人专享」入口领取，每个新账号限领一次。赠送额度优先消耗，用完后自动扣减现金余额。",
-          "scope": "首期默认 GLM-5.3-Flash；实际发放型号可能调整，以到账为准；GLM-5.3 Flash",
-          "tags": [
-            "要实名",
-            "客户端领取",
-            "每日限量",
-            "用完扣现金余额"
-          ],
-          "validity": "到账后 30 天",
-          "deadline": "2026-12-31 23:59（北京时间）",
-          "verifiedAt": "2026-11-14 03:05（北京时间）",
-          "verifiedSource": "官方页面",
-          "claimUrl": "https://www.scnet.cn/home/subject/double11/index.html",
-          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/www.scnet.cn.png"
         },
         {
           "id": "e7892c7499",
@@ -890,6 +889,26 @@
           "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/help.aliyun.com.png"
         },
         {
+          "id": "045917ad31",
+          "title": "电信星辰 MaaS 领 10 亿 Token",
+          "provider": "中国电信 星辰MaaS",
+          "amountText": "10 亿 Token（模型未收录于模型榜，暂不折价）",
+          "amountNote": "模型未收录于模型榜，暂不折价",
+          "valueCny": null,
+          "howTo": "每个账号限领一次。领券后在电脑端登录星辰 MaaS，到「开通管理」用券 0 元购买资源包。平台另有按量后付费，开通前在控制台确认额度用完后的计费规则。",
+          "scope": "Xing4.1-Preview",
+          "tags": [
+            "每账号限领一次",
+            "电脑端核销"
+          ],
+          "validity": "领券后 10 日内核销",
+          "deadline": "2026-12-15 23:59（北京时间）",
+          "verifiedAt": "2026-11-28 09:10（北京时间）",
+          "verifiedSource": "官方页面",
+          "claimUrl": "https://console.teleai.com.cn/model-service-web/coupon",
+          "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/console.teleai.com.cn.png"
+        },
+        {
           "id": "e855344407",
           "title": "豆包电脑版新用户领 30 天免费体验",
           "provider": "豆包",
@@ -929,7 +948,7 @@
           ],
           "validity": "积分有效至 12 月 26 日 23:59:59",
           "deadline": "2026-12-05 23:59（北京时间）",
-          "verifiedAt": "2026-11-20 22:08（北京时间）",
+          "verifiedAt": "2026-11-27 22:11（北京时间）",
           "verifiedSource": "官方页面",
           "claimUrl": "https://support.huaweicloud.com/offers-codeartsagent/codeartsagent_offers_0008.html",
           "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/support.huaweicloud.com.png"
@@ -970,7 +989,7 @@
           ],
           "validity": "激活会员后 30 天",
           "deadline": null,
-          "verifiedAt": "2026-11-24 22:06（北京时间）",
+          "verifiedAt": "2026-11-27 22:05（北京时间）",
           "verifiedSource": "官方页面",
           "claimUrl": "https://docs.qwenwork.cn/activity/desktop-activation-benefit",
           "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/docs.qwenwork.cn.png"
@@ -1038,7 +1057,7 @@
           ],
           "validity": "到账后 7 天有效",
           "deadline": null,
-          "verifiedAt": "2026-11-20 22:03（北京时间）",
+          "verifiedAt": "2026-11-27 22:03（北京时间）",
           "verifiedSource": "官方页面",
           "claimUrl": "https://autoclaw.zhipuai.cn/blog/news/autoclaw-2-2-0-upgrade-data-migration/",
           "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/autoclaw.zhipuai.cn.png"
@@ -1118,7 +1137,7 @@
           ],
           "validity": "领取后 31 天",
           "deadline": null,
-          "verifiedAt": "2026-11-20 22:05（北京时间）",
+          "verifiedAt": "2026-11-27 22:03（北京时间）",
           "verifiedSource": "官方页面",
           "claimUrl": "https://docs.trae.cn/ide_plans-and-billing",
           "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/docs.trae.cn.png"
@@ -1197,7 +1216,7 @@
           "tags": [],
           "validity": null,
           "deadline": null,
-          "verifiedAt": "2026-11-26 22:07（北京时间）",
+          "verifiedAt": "2026-11-28 09:11（北京时间）",
           "verifiedSource": "官方页面",
           "claimUrl": "https://platform.modelbest.cn/console/docs/models",
           "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/platform.modelbest.cn.png"
@@ -1294,7 +1313,7 @@
           ],
           "validity": null,
           "deadline": "2026-12-05 02:00（北京时间）",
-          "verifiedAt": "2026-11-26 22:03（北京时间）",
+          "verifiedAt": "2026-11-27 22:03（北京时间）",
           "verifiedSource": "官方页面",
           "claimUrl": "https://docs.devin.ai/desktop/models",
           "logo": "https://cdn.jsdelivr.net/gh/botfua111/omr-data@main/data/free-tokens/logos/docs.devin.ai.png"
